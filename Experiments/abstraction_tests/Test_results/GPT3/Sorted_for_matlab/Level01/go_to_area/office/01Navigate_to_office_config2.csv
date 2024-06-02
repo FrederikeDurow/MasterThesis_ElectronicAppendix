@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Head to the workplace.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,447,465,49.7254843711853
+Make your way to the professional space.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,450,467,0.213843107223511
+Go to the business hub.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,0.234721899032593
+Navigate to the corporate area.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,0.222108364105225
+Move to the office zone.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,0.256038665771484
+Visit the work domain.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,447,465,0.300252914428711
+Proceed to the work station.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.227800130844116
+Enter the employment space.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,0.258392572402954
+Walk into the business center.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,1.35708785057068
+Journey to the professional quarters.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,7.57721590995789
+Take a trip to the workspace.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.29514479637146
+Step into the office suite.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,49.7841424942017
+Travel to the business realm.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,448,467,0.25918698310852
+Advance to the corporate headquarters.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,0.24538516998291
+Go to the workplace sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.308230638504028
+Explore the business premises.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,0.306476831436157
+Head over to the job site.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.236248016357422
+Enter the employment center.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,447,464,0.275700807571411
+Make your way to the corporate arena.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,450,467,0.305895566940308
+Move towards the professional workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,1.6392674446106
+Navigate to the office domain.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Office""}', '{""object"": ""bowl""}']",FAILURE,48,448,496,7.98687791824341
+Visit the job site.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,447,496,0.717099905014038
+Go to the work studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,48.8424308300018
+Walk into the professional atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.30729866027832
+Proceed to the business workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.307359457015991
+Head to the workplace haven.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.311781883239746
+Journey to the corporate studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.303392171859741
+Take a stroll to the employment zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.306082725524902
+Explore the professional crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.306262016296387
+Go to the job crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.306084394454956
+Enter the business laboratory.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,0.310199499130249
+Move towards the office crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Office"",""go_through_areas"":""Workshop"",""object_found_condition"":false}']",FAILURE,30,449,479,8.70167326927185
+Navigate to the professional workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.410678148269653
+Head over to the workspace studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,49.5602695941925
+Make your way to the employment sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,450,467,0.308458089828491
+Go to the job crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.407507181167603
+Walk into the business laboratory.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Office""}']",FAILURE,24,448,472,0.410896301269531
+Journey to the professional atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.305330038070679
+Visit the workplace retreat.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,447,496,0.542268514633179
+Enter the corporate workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Home"",""object_found_condition"":true}']",FAILURE,30,447,477,0.459633827209473
+Move towards the job crafting studio.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.636466503143311
+Navigate to the office sanctuary.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Office""}']",FAILURE,48,448,496,0.52445125579834
+Go to the professional retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,448,465,7.56335806846619
+Head to the workspace studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.280760765075684
+Explore the business crafting zone.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,49.5688488483429
+Proceed to the employment haven.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.32874059677124
+Walk into the office atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,449,466,0.237607002258301
+Journey to the professional sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.256555795669556
+Make your way to the business retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.249083280563354
+Go to the job crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.305876731872559
+Enter the workspace sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,447,465,0.278213024139404
+Navigate to the corporate workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.5119788646698
+Head to the employment crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.308026790618896
+Move towards the professional retreat.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Office""}']",FAILURE,48,448,496,9.01130318641663
+Explore the office studio.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl"", ""current_location_condition"": ""office""}', '{""goal_area"": ""Office""}']",FAILURE,54,447,501,0.71501636505127
+Go to the job crafting sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,48.6407656669617
+Walk into the workplace haven.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.306426048278809
+Journey to the business atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Living Room""}']",FAILURE,25,450,475,0.384418725967407
+Navigate to the professional retreat.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,448,496,0.536903381347656
+Head over to the employment crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.30754017829895
+Move towards the office workshop.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.613361835479736
+Go to the job crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Home""}']",FAILURE,24,449,473,0.279684066772461
+Enter the workspace sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,0.231629133224487
+Explore the corporate atelier.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.306590795516968
+Head to the professional retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,448,465,8.70395183563232
+Journey to the business crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.410124063491821
+Make your way to the job studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,48.5376377105713
+Go to the employment sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.20973801612854
+Walk into the office workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Office""}']",FAILURE,24,448,472,0.403545141220093
+Navigate to the workspace retreat.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.615980386734009
+Head over to the professional studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.305123567581177
+Move towards the job crafting zone.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307275056838989
+Explore the business sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,447,464,0.253808498382568
+Go to the workplace atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.257241725921631
+Enter the corporate retreat.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,0.312285423278809
+Journey to the employment studio.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,449,466,9.72389888763428
+Navigate to the office crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Office"",""go_through_areas"":""Workshop"",""object_found_condition"":true}']",FAILURE,30,449,479,0.408249139785767
+Head to the professional sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,48.245046377182
+Move towards the business workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.418922662734985
+Go to the job crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.28473973274231
+Walk into the workspace retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.28984522819519
+Journey to the corporate atelier.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.193299770355225
+Explore the employment sanctuary.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,447,496,0.588763236999512
+Head over to the office crafting zone.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,450,473,0.24773645401001
+Navigate to the professional workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,1.65087127685547
+Go to the job crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.302910327911377
+Enter the workplace sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Home""}']",FAILURE,24,447,471,8.59948015213013
+Move towards the business retreat.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,448,498,0.514466762542725
+Walk into the employment studio.,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",SUCCESS,17,448,465,47.6147682666779
+Journey to the office atelier.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.307247161865234
+Go to the professional retreat.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.306806802749634
+Head over to the job crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.210539817810059
+Navigate to the workspace workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.505825042724609
+Explore the corporate sanctuary.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Office""}']",FAILURE,48,447,495,0.452355861663818
+Make your way to the employment crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,451,469,0.208024024963379
+Go to the office retreat.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.207936763763428
+Enter the business workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,447,465,1.38703775405884
+Move towards the professional crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,8.53662419319153
+Walk into the job sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.264662027359009
+Journey to the workspace retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,48.5964441299439

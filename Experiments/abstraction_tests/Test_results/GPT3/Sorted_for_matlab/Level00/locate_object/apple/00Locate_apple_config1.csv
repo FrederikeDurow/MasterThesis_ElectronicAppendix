@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,49.1899826526642
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.518586158752441
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.520246267318726
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.417141437530518
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.735453605651856
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313020467758179
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.83228874206543
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,2.60985040664673
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,4.28193259239197
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.732047557830811
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.417776107788086
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.416903734207153
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,48.7760872840881
+Please look for an apple.,,"['locate_object', 'locate_object']","['{""object"": ""apple""}', '{""object"": ""apple"", ""object_found_condition"": false}']",FAILURE,51,310,361,0.731144189834595
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312494516372681
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.521866321563721
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.734365701675415
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.518625020980835
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.731309175491333
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,2.40153527259827
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,4.38666248321533
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.521804809570313
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.417628288269043
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.312869071960449
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,48.5681126117706
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313645124435425
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.35760569572449
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,0.731921195983887
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.206698417663574
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.209519863128662
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312325954437256
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,3.34206557273865
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,4.38653516769409
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313138246536255
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.418703079223633
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.311525344848633
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,48.9858989715576
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313246011734009
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",SUCCESS,21,310,331,1.46195721626282
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",FAILURE,15,310,325,0.208981037139893
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.313348293304443
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312756538391113
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313091039657593
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,3.34225511550903
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,3.65511965751648
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.35690021514893
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.313695430755615
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":false}']",FAILURE,21,310,331,0.3129563331604
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,48.4641115665436
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.524520635604858
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.45999121665955
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.333507537841797
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.292146444320679
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.416588306427002
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.317472696304321
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,3.44439792633057
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,3.75819563865662
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":false}']",FAILURE,21,310,331,0.419238090515137
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.415782690048218
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":false}']",FAILURE,21,310,331,1.35920810699463
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,48.0449063777924
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.523715734481812
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.46357917785645
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312010049819946
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.838794231414795
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.217953205108643
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.406695127487183
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,2.29378867149353
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,4.59742546081543
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,60,310,370,0.83608341217041
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.209933280944824
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,1.35380458831787
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,47.6284379959106
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":false}']",FAILURE,21,310,331,0.313745498657227
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.57127547264099
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.412567853927612
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.417104959487915
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""go_through_areas"": ""living room"", ""object_found_condition"": true, ""current_location_condition"": ""living room""}']",FAILURE,74,310,384,1.04733228683472
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.621293067932129
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.6779842376709
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,4.27998805046082
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.413008689880371
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,1.25321125984192
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,310,364,1.77513551712036
+Please look for an apple.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""apple"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,60,310,370,47.0600843429565
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.315444231033325
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,1.35573768615723
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.417205333709717
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312799215316772
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.312516689300537
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.46188998222351
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,5.53577971458435
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,1.46214437484741
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.418077230453491
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.417355298995972
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,1.35705971717834
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,48.4053812026978
+Please look for an apple.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",FAILURE,21,310,331,0.41923999786377
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.311395883560181
+Please look for an apple.,,['locate_object'],"['{""object"":""apple""}']",SUCCESS,15,310,325,0.31320309638977

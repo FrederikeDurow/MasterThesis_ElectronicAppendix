@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Could you locate a bowl for me?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,312,328,2.39370012283325
+"I need to find a bowl, please.",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,313,335,8.56439638137817
+Can you search for a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,311,333,3.44667148590088
+"I'm looking for a container for my soup, perhaps a bowl?",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,25.5900175571442
+"I require assistance in locating a receptacle for food, like a bowl.",,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,319,335,3.44588160514832
+"Would you mind finding me a dish suitable for cereal? A bowl, perhaps?",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,1.46249055862427
+"I'm in need of a vessel for mixing ingredients, like a bowl.",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false}']",FAILURE,22,319,341,1.35760021209717
+Could you help me find something to serve salad in? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,319,335,6.37064838409424
+I need a dish for my pet's food. How about a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,319,341,1.4626259803772
+Do you know where I can find a container for my noodles? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,321,337,3.3420889377594
+"Could you assist me in locating a utensil for my soup, such as a bowl?",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,322,344,2.40159249305725
+"I'm searching for something to hold my snacks, like a bowl.",,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,1.35743522644043
+Can you find me a receptacle for my breakfast? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,319,348,2.46183204650879
+I require a vessel for my ice cream. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,7.46056246757507
+Could you help me find a dish for my pasta? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,319,341,3.34215259552002
+Do you know where I can find something for my cereal? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,26.5295128822327
+I need a container for my chips. How about a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,317,333,3.34166717529297
+I'm looking for a dish for my popcorn. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,1.35729908943176
+Can you find me something for my salad? Perhaps a bowl?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,61,317,378,1.7757887840271
+Could you locate a receptacle for my soup? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,5.43100953102112
+I need a container for my pet's food. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,1.35765647888184
+I'm searching for something for my stew. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,317,333,3.34182715415955
+Can you find me a dish for my ice cream? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,319,348,2.40208983421326
+I require a vessel for my soup. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,1.56649303436279
+Could you help me find a utensil for my cereal? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,320,349,2.50679183006287
+Do you know where I can find something for my noodles? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,320,336,7.51965308189392
+I need a container for my snacks. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,3.5513744354248
+I'm looking for a dish for my chips. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,26.5293717384338
+Can you find me something for my popcorn? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,3.65599584579468
+Could you locate a receptacle for my salad? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,1.46175622940063
+I need a container for my pasta. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,316,338,1.46156120300293
+I'm searching for something for my cereal. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,5.65878891944885
+Can you find me a dish for my soup? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,1.33843159675598
+Could you help me find a utensil for my ice cream? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,321,350,3.44688677787781
+I require a vessel for my noodles. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,316,332,1.357670545578
+Do you know where I can find something for my stew? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,2.50670170783997
+I need a container for my salad. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,2.50628399848938
+Can you find me something for my pet's food? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,319,341,7.51986289024353
+Could you locate a receptacle for my snacks? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,3.44671320915222
+I'm looking for a dish for my stew. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,26.6346433162689
+Can you find me a container for my popcorn? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,3.44584250450134
+Could you help me find something for my ice cream? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,319,348,1.46239638328552
+I need a vessel for my cereal. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,1.87998175621033
+Do you know where I can find a utensil for my noodles? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,322,344,4.2819676399231
+I need a container for my soup. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,2.50658917427063
+Can you find me something for my salad? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,3.65534114837646
+Could you locate a dish for my snacks? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,0.417304754257202
+I'm looking for a container for my pet's food. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,2.50638771057129
+Can you find me something for my stew? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.50612330436707
+Could you help me find a receptacle for my ice cream? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,321,343,7.52101182937622
+I need a vessel for my popcorn. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,316,332,3.34152626991272
+Do you know where I can find something for my cereal? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,27.8870851993561
+I need a container for my noodles. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,316,338,2.40180921554565
+Can you find me something for my soup? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,1.4630184173584
+Could you locate a dish for my salad? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.61094999313354
+I'm looking for a container for my snacks. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,3.44615817070007
+Can you find me something for my pet's food? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,319,341,2.4019763469696
+Could you help me find a receptacle for my stew? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,3.55119347572327
+I need a vessel for my ice cream. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,1.56621980667114
+Do you know where I can find something for my popcorn? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,1.46214294433594
+I need a container for my cereal. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,2.50688886642456
+Can you find me something for my noodles? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,8.56427478790283
+Could you locate a dish for my soup? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.40155076980591
+I'm looking for a container for my salad. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,28.6184694766998
+Can you find me something for my snacks? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.50664496421814
+Could you help me find a receptacle for my pet's food? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,322,338,0.313639402389526
+I need a vessel for my stew. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,316,338,3.44635057449341
+Do you know where I can find something for my ice cream? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,321,337,3.34137082099915
+I need a container for my popcorn. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,316,332,2.29834794998169
+Can you find me something for my cereal? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,5.22210168838501
+Could you locate a dish for my noodles? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,0.417305707931519
+I'm looking for a container for my soup. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,318,347,0.418135166168213
+Can you find me something for my salad? Perhaps a bowl?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,55,317,372,3.75927567481995
+Could you help me find a receptacle for my snacks? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,7.51999044418335
+I need a vessel for my pet's food. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false}']",FAILURE,22,318,340,2.50622153282166
+Do you know where I can find something for my stew? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,28.5143435001373
+I need a container for my ice cream. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,2.50646758079529
+Can you find me something for my popcorn? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,0.417470216751099
+Could you locate a dish for my cereal? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,3.44696736335754
+I'm looking for a container for my noodles. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,318,347,3.4463620185852
+Can you find me something for my soup? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,317,346,2.50597953796387
+Could you help me find a receptacle for my salad? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,3.3425407409668
+I need a vessel for my snacks. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,316,332,2.40238881111145
+Do you know where I can find something for my pet's food? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,322,344,0.313092947006226
+I need a container for my stew. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,3.55043172836304
+Can you find me something for my ice cream? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,318,347,7.62444496154785
+Could you locate a dish for my popcorn? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.40232014656067
+I'm looking for a container for my cereal. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,318,334,28.4098608493805
+Can you find me something for my noodles? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,2.40164279937744
+Could you help me find a receptacle for my soup? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,0.41778564453125
+I need a vessel for my salad. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,3.55140733718872
+Do you know where I can find something for my snacks? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,320,336,3.34184908866882
+I need a container for my pet's food. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,2.40151596069336
+Can you find me something for my stew? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,317,339,3.44708061218262
+Could you locate a dish for my ice cream? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,2.40142726898193
+I'm looking for a container for my popcorn. Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,318,340,0.417820453643799
+Can you find me something for my cereal? Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl""}']",SUCCESS,16,317,333,3.342289686203
+Could you help me find a receptacle for my noodles? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,320,342,8.56372928619385
+I need a vessel for my soup. Perhaps a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,316,345,1.4622745513916
+Do you know where I can find something for my salad? Maybe a bowl?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,320,349,28.6184606552124

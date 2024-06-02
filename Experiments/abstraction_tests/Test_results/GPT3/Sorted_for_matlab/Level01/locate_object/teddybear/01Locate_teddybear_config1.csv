@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you locate a stuffed bear?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,311,328,0.304758071899414
+I need help finding a plush toy resembling a bear.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,0.314177513122559
+Could you search for a cuddly bear?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.41600489616394
+Can you look around for a soft bear toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,7.52010011672974
+Please find a teddy-like bear for me.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.417916059494019
+I'm searching for a fluffy bear doll.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,2.40171360969543
+Could you locate a bear plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,0.416656017303467
+Can you search for a toy bear?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,45.5400621891022
+I'm looking for a bear stuffed animal.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.418047428131104
+Could you help me find a bear figurine?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.312535285949707
+Can you locate a bear-shaped soft toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417939424514771
+Please find a bear doll.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""home""}']",FAILURE,55,310,365,2.81980800628662
+Can you search for a teddy-like toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.521481275558472
+I need help finding a teddy bear.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,313,336,0.417760610580444
+Can you look around for a bear plush toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,0.521813869476318
+Could you find a stuffed bear for me?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,6.57970142364502
+Please locate a cuddly bear toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,0.731099128723145
+Can you search for a teddy bear doll?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,1.4619460105896
+I'm looking for a bear stuffed toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.418029546737671
+Could you help me find a bear plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,46.5837132930756
+Can you locate a teddy-like plushie?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,0.521548509597778
+Please find a bear soft toy.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,311,328,0.313430070877075
+Can you search for a stuffed bear toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417670011520386
+I need help finding a teddy bear figurine.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,315,338,1.46141290664673
+Can you look around for a bear-shaped doll?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,314,337,1.4620885848999
+Could you find a bear-shaped soft toy for me?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.313442230224609
+Please locate a teddy bear figurine.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417234897613525
+Can you search for a bear-shaped plushie?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,6.47570657730103
+I'm looking for a cuddly bear doll.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.417331457138062
+Can you help me find a bear-shaped stuffed animal?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,1.56606483459473
+Could you look around for a teddy-like plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,0.417608976364136
+Please locate a fluffy bear figurine.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,46.6884760856628
+Can you search for a bear-shaped toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417532205581665
+I'm looking for a teddy bear soft toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.31346607208252
+Can you help me find a plush bear?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417382478713989
+Could you locate a bear-shaped stuffed toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,313,330,1.35734081268311
+Please find a cuddly bear plushie.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,1.56618285179138
+Can you search for a teddy bear stuffed animal?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.417859792709351
+I need help finding a bear soft toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.417778015136719
+Can you look around for a stuffed teddy bear?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,6.37067770957947
+Could you find a bear-shaped plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.521665573120117
+Please locate a teddy bear doll for me.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,1.46243786811829
+Can you search for a fluffy bear toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.521929979324341
+I'm looking for a soft teddy bear.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,46.5838844776154
+Can you help me find a bear-shaped figurine?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.313131093978882
+Could you locate a bear plush for me?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.416829109191895
+Please find a teddy bear soft toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.418094396591187
+Can you search for a plush bear toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,3.13341045379639
+I need help finding a cuddly teddy bear.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,0.417605638504028
+Can you look around for a bear-shaped soft toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.41645884513855
+Could you find a teddy-like stuffed animal?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,0.41811203956604
+Please locate a fluffy bear plushie.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,6.57951474189758
+Can you search for a soft bear plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.313070774078369
+I'm looking for a teddy bear figurine.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,1.35865807533264
+Can you help me find a bear-shaped stuffed toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.416795015335083
+Could you locate a cuddly bear doll?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,313,330,46.4797677993774
+Please find a bear plush toy for me.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,313,330,0.312447547912598
+Can you search for a teddy bear soft plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,0.627464294433594
+I need help finding a soft bear toy.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,313,330,0.312386989593506
+Can you look around for a cuddly bear plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,315,338,1.46236634254456
+Could you find a fluffy teddy bear?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,1.46122121810913
+Please locate a bear soft plushie.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,312,329,0.313672065734863
+Can you search for a teddy-like soft toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.417325973510742
+I'm looking for a plush bear doll.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,6.57968497276306
+Can you help me find a bear-shaped soft plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.522095918655396
+Could you locate a teddy bear plush toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,1.35732483863831
+Please find a soft bear plush toy for me.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.418100357055664
+Can you search for a fluffy bear plushie?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,46.6878325939179
+I need help finding a cuddly bear soft toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.521893739700317
+Can you look around for a soft teddy-like toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,0.418023109436035
+Could you find a teddy bear soft plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.417515277862549
+Please locate a bear plush doll.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,311,328,1.46154165267944
+Can you search for a cuddly bear soft plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,1.46241521835327
+I'm looking for a teddy-like soft bear.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,0.417433261871338
+Can you help me find a fluffy bear soft toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,0.416934251785278
+Could you locate a soft teddy bear plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,6.58007621765137
+Please find a bear soft plush toy for me.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.522124528884888
+Can you search for a cuddly teddy bear plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,1.46184206008911
+I need help finding a soft bear plushie.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.418247222900391
+Can you look around for a fluffy bear soft plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,46.4793326854706
+Could you find a teddy-like bear plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.417286157608032
+Please locate a soft teddy bear toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,313,336,0.416861534118652
+Can you search for a cuddly bear soft plush toy?,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,316,333,0.313035488128662
+I'm looking for a fluffy teddy bear plushie.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,316,333,1.35869932174683
+Can you help me find a soft bear plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,1.46154570579529
+Could you locate a cuddly teddy bear soft toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,0.417256593704224
+Please find a fluffy bear soft plush toy for me.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,315,338,0.417495727539063
+Can you search for a soft teddy-like bear plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,6.57984447479248
+I need help finding a cuddly bear plush toy.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,315,332,0.313376665115356
+Can you look around for a fluffy teddy bear soft plush?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,317,340,1.35744786262512
+Could you find a teddy-like soft bear plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,316,339,1.35730314254761
+Please locate a soft bear plush doll.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,312,335,46.5835378170013
+Can you search for a cuddly teddy bear soft plushie?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,318,341,0.417954921722412
+I'm looking for a fluffy bear plush toy.,,['locate_object'],"['{""object"":""teddy bear""}']",SUCCESS,17,314,331,0.313248157501221
+Can you help me find a soft teddy bear plush doll?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,317,340,0.312906265258789
+Could you locate a cuddly bear plush toy?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,1.35722374916077
+Please find a fluffy teddy bear soft plush toy for me.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,317,340,1.46251893043518
+Can you search for a soft bear plush doll?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,314,337,0.313096046447754
+I need help finding a cuddly teddy bear plush toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,317,340,0.417113542556763
+Can you look around for a fluffy bear plush doll?,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":false}']",FAILURE,23,315,338,6.47548794746399

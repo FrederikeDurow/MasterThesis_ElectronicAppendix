@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you take me to the backyard?,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,322,347,0.408758401870728
+I need to go to the outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.313515424728394
+Please head to the garden.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.312764167785645
+Let's move to the yard.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417649507522583
+Navigate to the outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,47.5242412090302
+I'd like to go to the green area.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",FAILURE,18,324,342,1.35736322402954
+Take me to the backyard garden.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.312834024429321
+Can you go to the outdoor garden?,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen"",""current_location_condition"":""kitchen""}']",FAILURE,32,322,354,0.417218208312988
+Move to the backyard space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.313748359680176
+Head towards the garden area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.326654195785522
+Let's go to the patio.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",SUCCESS,18,321,339,1.4482057094574
+I need to get to the garden plot.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,7.41533374786377
+Please go to the backyard landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.312963962554932
+Take me to the outdoor garden space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.313300848007202
+Navigate to the yard.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,319,337,0.313083410263062
+I'd like to visit the garden patch.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.41756534576416
+Can you go to the open-air area?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,47.732275724411
+Move to the backyard garden space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,1.35820984840393
+Head towards the outdoor garden.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.417746067047119
+Let's go to the garden oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.417456865310669
+I need to get to the backyard sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen"",""go_through_areas"":""dining room""}']",FAILURE,26,323,349,0.521301031112671
+Please navigate to the garden plot.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.41822624206543
+Take me to the outdoor greenery.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,1.46153593063355
+Go to the backyard retreat.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""home""}']",FAILURE,24,320,344,7.56982088088989
+Can you move to the garden terrace?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.47324538230896
+Head towards the outdoor retreat.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.418151378631592
+Let's go to the garden area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.311455965042114
+I need to get to the backyard haven.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",FAILURE,18,323,341,0.313368082046509
+Please navigate to the outdoor oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,46.5831954479218
+Take me to the garden sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,1.46238446235657
+Go to the backyard patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.417599678039551
+Can you move to the outdoor haven?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.417220115661621
+Head towards the garden landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.418032884597778
+Let's go to the backyard paradise.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",FAILURE,18,322,340,0.312826633453369
+I need to get to the outdoor sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",FAILURE,18,323,341,1.46171164512634
+Please navigate to the garden retreat.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen"",""current_location_condition"":""kitchen""}']",FAILURE,32,321,353,8.98226428031921
+Take me to the backyard garden oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.313205480575562
+Go to the outdoor garden area.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""home""}']",FAILURE,24,321,345,0.522186756134033
+Can you move to the garden haven?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.417305469512939
+Head towards the backyard greenery.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417531967163086
+Let's go to the outdoor paradise.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",FAILURE,18,322,340,45.5393705368042
+I need to get to the garden patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""current_location_condition"":""kitchen""}']",FAILURE,25,323,348,1.46194696426392
+Please navigate to the backyard oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.521629333496094
+Take me to the outdoor garden retreat.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.417694807052612
+Go to the garden space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.417847394943237
+Can you move to the backyard area?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.417345285415649
+Head towards the outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,1.46170926094055
+Let's go to the garden terrace.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,322,347,8.45998859405518
+I need to get to the backyard garden plot.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,0.209164381027222
+Please navigate to the outdoor garden space.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""garden"",""current_location_condition"":""home""}']",FAILURE,31,322,353,0.417437314987183
+Take me to the garden landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417203664779663
+Go to the backyard green area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,1.35742521286011
+Can you move to the outdoor garden oasis?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,45.5399284362793
+Head towards the garden oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,320,345,0.521540641784668
+Let's go to the backyard garden sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.482797861099243
+I need to get to the outdoor garden patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,324,349,0.457534551620483
+Please navigate to the garden haven.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417005777359009
+Take me to the backyard outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""home""}']",FAILURE,24,322,346,0.521431922912598
+Go to the garden backyard.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""home""}']",FAILURE,24,320,344,1.46276068687439
+Can you move to the outdoor garden retreat?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,8.56386232376099
+Head towards the garden greenery.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.313400268554687
+Let's go to the backyard garden landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.313370704650879
+I need to get to the outdoor garden haven.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,0.41730523109436
+Please navigate to the garden paradise.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,1.46201276779175
+Take me to the backyard outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,45.5393807888031
+Go to the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417692184448242
+Can you move to the outdoor garden terrace?,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""living room""}']",FAILURE,25,323,348,0.521777391433716
+Head towards the garden patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,320,338,0.417954683303833
+Let's go to the backyard garden oasis.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.417033195495606
+I need to get to the outdoor garden sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,324,349,0.522398710250855
+Please navigate to the garden retreat.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,321,346,1.46171164512634
+Take me to the backyard outdoor garden.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,8.56421041488647
+Go to the garden backyard space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.313042640686035
+Can you move to the outdoor garden paradise?,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen"",""current_location_condition"":""kitchen""}']",FAILURE,32,323,355,0.522274732589722
+Head towards the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.312942743301392
+Let's go to the backyard garden haven.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,1.46179270744324
+I need to get to the outdoor garden landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,45.8529987335205
+Please navigate to the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.313145399093628
+Take me to the backyard garden patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""living room""}']",FAILURE,25,322,347,0.521551370620728
+Go to the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.313334226608276
+Can you move to the outdoor garden oasis?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.417962789535522
+Head towards the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.312288284301758
+Let's go to the backyard garden terrace.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,1.35801100730896
+I need to get to the outdoor garden sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,8.46028852462769
+Please navigate to the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""kitchen""}']",FAILURE,25,322,347,0.41743278503418
+Take me to the backyard garden paradise.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.312909126281738
+Go to the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""home""}']",FAILURE,24,321,345,1.46162414550781
+Can you move to the outdoor garden retreat?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.313716173171997
+Head towards the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""current_location_condition"":""kitchen""}']",FAILURE,25,321,346,46.6888790130615
+Let's go to the backyard garden haven.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.520629644393921
+I need to get to the outdoor garden landscape.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,0.417991161346436
+Please navigate to the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.521737813949585
+Take me to the backyard garden patio.,,['go_to_area_behavior'],"['{""goal_area"":""garden"",""go_through_areas"":""living room""}']",FAILURE,25,322,347,0.417873382568359
+Go to the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,0.417101383209229
+Can you move to the outdoor garden oasis?,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.522185802459717
+Head towards the garden outdoor space.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,321,339,8.56480288505554
+Let's go to the backyard garden terrace.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,323,341,0.419599771499634
+I need to get to the outdoor garden sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,324,342,0.415114164352417
+Please navigate to the garden outdoor area.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,1.35775136947632
+Take me to the backyard garden paradise.,,['go_to_area_behavior'],"['{""goal_area"":""garden""}']",SUCCESS,18,322,340,0.312493562698364

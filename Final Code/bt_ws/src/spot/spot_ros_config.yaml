@@ -1,0 +1,25 @@
+
+/**:
+  ros__parameters:
+    robot_state_rate: 60.0
+    metrics_rate: 0.04
+    lease_rate: 1.0
+    image_rate: 60.0
+    auto_claim: True
+    auto_power_on: True
+    auto_stand: False
+    deadzone: 0.05
+    estop_timeout: 9.0
+    username: "242"
+    password: "servicerobots"
+    hostname: "10.0.0.3"
+    start_estop: True
+    preferred_odom_frame: "odom" # pass either odom/vision. This frame will become the parent of body in tf2 tree and will be used in odometry topic. https://dev.bostondynamics.com/docs/concepts/geometry_and_frames.html?highlight=frame#frames-in-the-spot-robot-world for more info.
+    async_tasks_rate: 60.0
+    cmd_duration: 0.125 # Increase if spot stutters while walking
+    initialize_spot_cam: False
+    rgb_cameras: False
+    has_arm: False
+    launch_rviz: False
+    spot_name: ""
+

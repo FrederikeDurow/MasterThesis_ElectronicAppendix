@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Could you please head to the workshop?,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,45.6704549789429
+I need you to go to the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.511792659759522
+Can you navigate to the workspace?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.510647773742676
+Please make your way to the workshop.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,450,499,0.512383460998535
+Let's move to the crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,450,468,0.306509017944336
+Take me to the studio,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,447,465,0.306911945343018
+I require assistance in the workshop.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307187795639038
+Guide me to the work area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,1.53635621070862
+Proceed to the manufacturing zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Living Room""}']",FAILURE,25,448,473,0.306247472763062
+Could you navigate to the workshop space?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,9.83259582519531
+Please lead me to the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.510023832321167
+Let's head over to the workshop,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,45.8746428489685
+It's time to visit the workshop.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,450,473,0.29564905166626
+I'd like to go to the workshop,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,0.728615045547485
+Can you direct me to the workshop?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,0.613905191421509
+Workshop is where I need to be.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,451,474,0.409519672393799
+I need to be in the workshop area.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,451,474,0.305965185165405
+Let's go to the workshop zone.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.308882236480713
+To the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,445,463,1.33032083511353
+Navigate to the workshop station.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,448,466,0.409963130950928
+Can you take me to the workspace?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,9.82848858833313
+It's workshop time,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,446,469,0.409422874450684
+Lead me to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,447,465,46.6939849853516
+I need to be at the workshop spot.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""workshop""}']",FAILURE,29,451,480,0.412593364715576
+Please go to the crafting area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.611708879470825
+Move towards the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,447,496,0.716759204864502
+Could you transport me to the workshop?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,0.613357305526733
+Let's make our way to the workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,451,469,0.30607008934021
+I need you to head to the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.819678068161011
+Can you guide me to the workshop area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.511363029479981
+Workshop is where I need to go.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,0.307275295257568
+Proceed to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,9.72795104980469
+I require assistance in the workshop zone.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""workshop""}']",FAILURE,29,450,479,0.409378528594971
+Guide me to the crafting space.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,449,467,46.7960886955261
+Navigate to the workspace,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,0.307149171829224
+It's time for the workshop.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,449,472,0.409360885620117
+I'd like to go to the workshop area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,452,501,0.513607501983643
+Can you take me to the workshop location?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.509724617004395
+Workshop is my destination.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.306478023529053
+To the workshop we go.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.307162761688232
+Workshop is the target.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,1.33200025558472
+Navigate to the workshop,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,446,462,0.305992603302002
+Can you lead me to the workshop zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,10.0354118347168
+I need to be in the workshop zone.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,451,474,0.408629417419434
+Let's go to the workshop now.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,450,468,46.6946153640747
+Please guide me to the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.615725040435791
+Move to the crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.304939746856689
+Could you transport me to the workshop area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.614400148391724
+Take me to the workspace,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,447,465,0.306644678115845
+I need to be at the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,449,467,0.410584926605225
+Please make your way to the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,0.510619640350342
+I need to access the workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.307740211486816
+Can you direct me to the workshop space?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.51048731803894
+Workshop area is where I need to be.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,452,468,9.52369022369385
+Lead me to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,447,465,0.306487321853638
+Navigate to the crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,448,466,48.2301807403564
+It's workshop time,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,446,469,0.306728363037109
+Let's go to the workshop,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.306560039520264
+I need you to go to the workshop area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,452,501,0.614612102508545
+Can you guide me to the workspace?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,450,499,0.614177465438843
+Workshop is my destination.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""workshop""}']",FAILURE,29,448,477,0.409908056259155
+To the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,445,463,0.30606198310852
+Could you transport me to the workshop zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.716845512390137
+Move towards the crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,448,466,0.306422472000122
+Please head to the workshop location.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,8.9084255695343
+Navigate to the workshop station.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,448,466,0.307075977325439
+Can you take me to the workshop space?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,48.1295757293701
+It's time for the workshop,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""workshop""}']",FAILURE,29,448,477,0.407807588577271
+I need to be in the workshop area.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,451,474,0.409799575805664
+Let's make our way to the workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,451,469,0.306173324584961
+Guide me to the workshop,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,447,496,0.511576175689697
+Navigate to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,0.412086248397827
+Workshop is where I need to go.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,0.304120779037476
+Proceed to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,0.307647466659546
+I require assistance in the workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.511358261108398
+Can you lead me to the workshop zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,9.11346697807312
+Please go to the crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,449,467,0.306351184844971
+Move to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,47.5138785839081
+Could you please take me to the workshop?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,1.6380569934845
+I need to access the workshop area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,450,468,0.307631254196167
+Let's head to the workshop area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,450,468,0.307193517684937
+Navigate to the workspace,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,0.305981159210205
+Take me to the workshop spot.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.511919975280762
+Can you direct me to the workshop location?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.512397289276123
+Workshop zone is where I need to be.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,452,475,0.40821099281311
+Lead me to the workshop space,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,448,466,0.410441160202026
+Guide me to the crafting zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,8.08826231956482
+Navigate to the workshop,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,446,464,0.306818008422852
+It's workshop time,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,446,469,47.7197914123535
+I need to be at the workshop area.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,451,474,1.32971787452698
+Please guide me to the workspace.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.613874197006226
+Move towards the workshop space.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.513055801391602
+Could you transport me to the workshop spot?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.613690853118897
+Take me to the workshop area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.614220857620239
+I need to be in the workshop now.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,451,469,0.306013584136963
+Let's make our way to the workshop area.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",SUCCESS,18,452,470,0.307266712188721
+Can you take me to the workshop station?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.513205289840698
+Workshop is my destination,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,447,470,7.67797613143921
+To the workshop zone,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,446,469,0.409702777862549
+Workshop is where I need to be,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,450,473,47.8207802772522

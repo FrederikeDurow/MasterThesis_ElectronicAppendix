@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.204308271408081
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.536226511001587
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.36563062667847
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,11.0563127994537
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.719492912292481
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.717243194580078
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.715685606002808
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,44.0326464176178
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.512316226959229
+Please go to the garden.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.543752431869507
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.621051788330078
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl"", ""object_found_condition"": true}']",FAILURE,55,449,504,0.682516813278198
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.609558820724487
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.513571977615356
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,10.8510956764221
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.615065813064575
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.682289838790894
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,2.08127593994141
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,43.300998210907
+Please go to the garden.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,448,497,0.544591426849365
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.464962959289551
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.4951331615448
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.603794813156128
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.565799236297607
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.650389432907105
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,10.7105104923248
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.676969051361084
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.476170301437378
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.593467712402344
+Please go to the garden.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,448,497,45.0529141426086
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.61351466178894
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.617872476577759
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.494110822677612
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.526112794876099
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.61381459236145
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.843476295471191
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,14.8250131607056
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.615533113479614
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.674001455307007
+Please go to the garden.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.550417900085449
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,40.9605062007904
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.723269939422607
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.607108592987061
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.657429456710815
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.67345118522644
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.553384065628052
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.267971038818359
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,14.9472935199738
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.472118377685547
+Please go to the garden.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.600467920303345
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.566010236740112
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,41.0626001358032
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.717900276184082
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.618815660476685
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.299855947494507
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl"", ""object_found_condition"": true, ""current_location_condition"": ""garden""}']",FAILURE,62,449,511,0.716218709945679
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,1.1285502910614
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.708431243896484
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,13.8605980873108
+Please go to the garden.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,448,497,0.689107894897461
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.508554220199585
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.715742826461792
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,41.1653699874878
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.819393396377564
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.613822221755981
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.408791065216064
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.819607257843018
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.715463638305664
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,2.04831838607788
+Please go to the garden.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,11.8506059646606
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.334586143493652
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.716233968734741
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.306886911392212
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,42.0865747928619
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.716527700424194
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.716626167297363
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.715740919113159
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.717898368835449
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.921411991119385
+Please go to the garden.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,448,497,0.614590644836426
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,12.9019351005554
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.613991022109985
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.516491651535034
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.506434917449951
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,42.1902897357941
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.653128623962402
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.676605463027954
+Please go to the garden. ,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.306728601455688
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.817939519882202
+Please go to the garden.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.652583360671997
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.678186893463135
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,12.9041681289673
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.510655879974365
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.612947225570679
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.716576099395752
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,42.5989918708801
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.615007877349854
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.612779855728149
+Please go to the garden. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.594685792922974
+Please go to the garden. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.595859527587891

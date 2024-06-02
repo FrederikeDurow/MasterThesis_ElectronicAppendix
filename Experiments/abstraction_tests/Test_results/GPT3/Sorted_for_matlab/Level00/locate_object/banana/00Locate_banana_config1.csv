@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,1.76543474197388
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313532114028931
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417196989059448
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.423013925552368
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,8.24636077880859
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417703866958618
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.314437627792358
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.309973239898682
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,47.8370974063873
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.731142997741699
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.41736626625061
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.312537908554077
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.835203170776367
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.41753363609314
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.312406539916992
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.41940188407898
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,7.41835856437683
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.45951342582703
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.313216209411621
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.311717748641968
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,60,311,371,47.9409728050232
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.312942743301392
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.41787314414978
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417027950286865
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.313299655914307
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,1.77540230751038
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313568115234375
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""current_location_condition"": ""home""}']",FAILURE,60,311,371,0.834795236587524
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,6.47513103485107
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.33757877349854
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.333048820495605
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.730860948562622
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,60,311,371,47.105183839798
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.420393705368042
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.310499429702759
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.312767028808594
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417822599411011
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35763001441956
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35744333267212
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.31329607963562
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,6.47487330436707
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.46203327178955
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313464403152466
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,0.731111764907837
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,46.5828790664673
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.523917198181152
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.311105012893677
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417535543441772
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417717218399048
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.46184039115906
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35771155357361
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.313040733337402
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,6.47517442703247
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.46169495582581
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.940287590026856
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.521034240722656
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,46.4800081253052
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,0.83473014831543
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.418073177337647
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.521515369415283
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417565107345581
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,0.730924844741821
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35930466651917
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.41605281829834
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,6.57902574539185
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35829663276672
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313162326812744
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,1.25275087356567
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,46.5836880207062
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417321443557739
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.315096616744995
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.421929836273193
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.306925058364868
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.314404249191284
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,2.40084910392761
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.522223234176636
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,7.20631051063538
+Please look for a banana. ,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""kitchen"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.731122016906738
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.521981239318848
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.46196246147156
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,46.4789185523987
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.312580108642578
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.315421581268311
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen""}']",FAILURE,54,311,365,0.728996276855469
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.521554231643677
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,0.365483999252319
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.40921449661255
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313063621520996
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,6.47535109519959
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.35794758796692
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313220024108887
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,2.40301489830017
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,311,326,46.4778249263763
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313515186309814
+Please look for a banana. ,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""goal_area"": ""kitchen"", ""object_found_condition"": true}']",FAILURE,60,311,371,0.730851411819458
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417588949203491
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313233852386475
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.416969299316406
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,1.46178865432739
+Please look for a banana. ,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313289642333984

@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you find a human around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.6128067970275879
+I need you to locate someone.,"Sure, I can help with that. Could you please provide me with more details about the person you want to locate? For example, are they in a specific area of a house or a building?",[],[],CLARIFICATION,41,305,346,1.1259384155273438
+Could you search for a human being?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7164261341094971
+Can you spot a person nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,1.7411088943481445
+I'm looking for a human.,Can you please specify the current location or area of the house you're in? This will help me narrow down the search.,[],[],CLARIFICATION,25,304,329,0.9238841533660889
+Please find a person for me.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7131478786468506
+Is there anyone in the vicinity?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.824211835861206
+Can you see if there's a person nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,0.8141977787017822
+Locate a living soul,"Could you specify which type of living soul you are looking for? For instance, are you looking for a person, a dog, or a cat?",[],[],CLARIFICATION,31,302,333,0.921820878982544
+I require assistance in finding someone.,"Could you provide more details about the person you're looking for? For example, do you know their current location or any specific area where they might be? This will help me assist you more effectively.",[],[],CLARIFICATION,40,305,345,1.3298258781433105
+Please locate a fellow individual.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.6141173839569092
+Find someone around here.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.6178576946258545
+Seek out a person for me.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7134542465209961
+Could you identify a human presence?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.9215257167816162
+I'm in need of finding a person.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7215209007263184
+Locate a human being,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.7111680507659912
+Find someone in the vicinity.,,"['locate_object', 'locate_object', 'locate_object', 'locate_object', 'locate_object', 'locate_object', 'locate_object', 'locate_object']","['{""object"": ""person"", ""current_location_condition"": ""kitchen""}', '{""object"": ""person"", ""current_location_condition"": ""office""}', '{""object"": ""person"", ""current_location_condition"": ""bed room""}', '{""object"": ""person"", ""current_location_condition"": ""living room""}', '{""object"": ""person"", ""current_location_condition"": ""dining room""}', '{""object"": ""person"", ""current_location_condition"": ""workshop""}', '{""object"": ""person"", ""current_location_condition"": ""garden""}', '{""object"": ""person"", ""current_location_condition"": ""garage""}']",FAILURE,190,304,494,4.607774972915649
+Can you locate a person nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7162282466888428
+I need to find someone,"Sure, I can help with that. Could you please specify where you would like to start looking and any particular details about the person you're trying to find?",[],[],CLARIFICATION,32,303,335,1.0244591236114502
+Please find me a person.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.7164244651794434
+Could you spot a human in the area?,"Sure, I can help with that. Could you please specify the current location where I should look for the human?",[],[],CLARIFICATION,24,307,331,0.9206051826477051
+Locate a person,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,301,316,0.7162964344024658
+I'm searching for someone around here.,Who are you looking for?,[],[],CLARIFICATION,7,305,312,0.512622594833374
+Help me find a person,Of course! I can help you with that. Could you please specify the current location you are in? It will help me narrow down the search.,[],[],CLARIFICATION,31,303,334,1.2277417182922363
+Can you find a person around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7226157188415527
+Locate an individual,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,301,316,0.7110230922698975
+Is there someone nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.7165858745574951
+Please locate a person for me.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.8179953098297119
+Find a person around here.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.8254995346069336
+Could you see if there's a person nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,1.2238459587097168
+Locate a person in the vicinity.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7169325351715088
+I'm looking for someone. Can you help?,"Of course! I can help you locate someone. Could you provide me with a bit more information about the person you're looking for? For example, do you know which area of the house they might be in?",[],[],CLARIFICATION,43,307,350,1.1247811317443848
+Can you spot a person for me?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7174127101898193
+Please find someone nearby.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.7155632972717285
+I need assistance in finding a person.,Could you please specify the current location or any specific area where the person might be? This will help in narrowing down the search.,[],[],CLARIFICATION,27,306,333,0.8259782791137695
+Can you locate a human presence?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.6093347072601318
+Find a person,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,301,316,0.7154617309570312
+I need to find someone.,"Could you please provide more details about the person you're looking for? For example, any specific location where they might be, or any distinguishing features that could help in locating them?",[],[],CLARIFICATION,36,304,340,1.3303570747375488
+Please find a person around here.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,1.0232930183410645
+Can you locate someone nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.7164134979248047
+I'm searching for a person.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.717003345489502
+Find a person for me,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.7165038585662842
+Could you identify a human?,"Yes, I can help with that. I will need to locate a person in your specified area. Could you please tell me where you would like me to look for the person?",[],[],CLARIFICATION,37,304,341,1.023101568222046
+I'm looking for a human being.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.718071699142456
+Can you see if there's anyone around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7148280143737793
+Locate someone nearby,,['locate_object'],"['{""object"":""person"",""object_found_condition"":true}']",FAILURE,21,301,322,0.8192431926727295
+I need to locate a person.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.6143629550933838
+Find someone for me,"Where do you want me to start looking? I can search through the various areas of the house like the kitchen, office, bedroom, living room, dining room, workshop, garden, or garage.",[],[],CLARIFICATION,41,302,343,1.432490348815918
+Can you spot someone around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.7347724437713623
+Please locate a human being.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,1.0067124366760254
+Is there anyone in the vicinity?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7161283493041992
+Can you find a person for me?,"Sure, I can help with that. Could you please specify the current location?",[],[],CLARIFICATION,17,306,323,0.7157745361328125
+Locate a person in the area.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7178056240081787
+I'm looking for someone. Can you help me out?,"Of course! I can help you locate someone. Could you please provide me with more details? For example, who are you looking for and where do you think they might be?",[],[],CLARIFICATION,37,309,346,1.126250982284546
+Find a person,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,301,316,0.6204814910888672
+Could you see if there's a person around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,0.7097468376159668
+Locate someone nearby.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.6152026653289795
+I need assistance in finding someone.,"I can help with that. Do you have any specific details about the person you're looking for, such as their current location or any other identifying information?",[],[],CLARIFICATION,31,305,336,1.0222206115722656
+Can you find a living soul nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.9218871593475342
+Please locate someone for me.,"Sure, I can help with that. Could you please provide more details about where you last saw the person or where you think they might be?",[],[],CLARIFICATION,30,304,334,0.9209473133087158
+Can you see if there's a person nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,0.7207987308502197
+I need to find someone urgently.,"Sure, I can help with that. Do you know where they might be, or should I start searching the house?",[],[],CLARIFICATION,25,305,330,0.9169065952301025
+Find a person nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.6141903400421143
+I'm looking for a person. Can you help?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,308,323,1.0235865116119385
+Can you locate someone for me?,"Sure, I can help with that. Could you please specify the person you are looking for?",[],[],CLARIFICATION,20,305,325,0.8210971355438232
+Please find a human being around here.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7148122787475586
+Locate someone in the vicinity.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.8277950286865234
+I need to locate someone.,"Sure, I can help with that. Can you please provide me with more details about the person you are trying to locate, such as their name or any specific area you think they might be in?",[],[],CLARIFICATION,41,304,345,1.018561840057373
+Can you find a person in the area?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,0.8166205883026123
+Please locate a person nearby.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,304,319,0.6191048622131348
+Find someone around here,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.712573766708374
+I'm searching for someone. Can you assist?,"Of course, I can help with that. Could you please provide more details about the person you're searching for? For instance, their name or any specific location where they might be?",[],[],CLARIFICATION,37,307,344,1.0224878787994385
+Can you see if there's anyone nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7156352996826172
+Locate someone for me,Could you please specify who you would like me to locate?,[],[],CLARIFICATION,13,302,315,0.8186290264129639
+Can you find a person close by?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7172274589538574
+Please locate a person in the vicinity.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7170193195343018
+Find a person nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.7156016826629639
+I need assistance in locating someone.,"I can help with that. Could you please provide me with more details about the person you're looking for, such as their name or any specific identifying features? Additionally, do you have an idea of the current location or the areas they might be in?",[],[],CLARIFICATION,51,305,356,2.1499264240264893
+Can you see if there's someone around?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7176876068115234
+Locate a person nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.7176182270050049
+I'm looking for someone. Could you help me find them?,Of course! Who are you looking for?,[],[],CLARIFICATION,10,310,320,0.9189679622650146
+Find someone in the area,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.7213964462280273
+Can you locate someone around here?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.6092860698699951
+Please find a person for me.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7169492244720459
+Can you see if there's a human nearby?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,307,322,0.7186257839202881
+Locate someone for me,Who would you like me to locate for you?,[],[],CLARIFICATION,11,302,313,0.6116800308227539
+I need to find a person quickly.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.8194165229797363
+Find a person nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.7188823223114014
+Can you locate a person for me?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,306,321,0.7144510746002197
+Please locate someone in the area.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.8224945068359375
+Find someone nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,301,316,0.7267665863037109
+I'm searching for someone. Can you help me out?,"Sure, I can help with that. Do you have any specific details about the person you're searching for, such as their location or any identifying features?",[],[],CLARIFICATION,31,309,340,0.907447099685669
+Can you see if there's a person close by?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,308,323,0.6162643432617188
+Locate someone in the vicinity,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,303,318,0.6112658977508545
+I need assistance in finding someone.,I can help with that. Do you know the current location of the person or where they might be?,[],[],CLARIFICATION,22,305,327,0.8194952011108398
+Can you find someone around here?,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.6157317161560059
+Please locate a person close by.,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,305,320,0.7150120735168457
+Find someone for me,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.6147232055664062
+Can you see if there's anyone in the area?,"Sure, I can check if there are any people in the area. Do you have a specific area in mind that you'd like me to check?",[],[],CLARIFICATION,30,308,338,0.9228081703186035
+Locate a person nearby,,['locate_object'],"['{""object"":""person""}']",FAILURE,15,302,317,0.6117537021636963

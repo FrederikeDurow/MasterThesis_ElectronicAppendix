@@ -1,0 +1,816 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please navigate to the lounge.,"The destination ""lounge"" is not on the list of allowed locations. Please choose from the following areas:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Which area would you like to navigate to?",[],[],CLARIFICATION,62,1025,1087,1.394256591796875
+Can you take me to the sitting area?,"The sitting area is not listed as an option. Could you please specify one of the following areas?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,50,1028,1078,1.1275603771209717
+I'd like to go to the den.,"It seems ""den"" is not one of the valid locations. The available options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Could you please specify one of these locations?",[],[],CLARIFICATION,58,1027,1085,1.2274835109710693
+Let's head to the family room.,"It seems ""family room"" isn't a valid goal area. Could you please specify one of the following areas instead: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,46,1026,1072,1.229069471359253
+Take me to the TV room,"It seems that ""TV room"" is not on the list of allowed areas. Could you please specify the area you want to go to from the following options: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" or ""garage""?",[],[],CLARIFICATION,64,1025,1089,1.330132246017456
+Navigate to the main sitting space.,"Could you please specify the main sitting space from the following options: 
+
+- living room
+- dining room
+- home",[],[],CLARIFICATION,25,1026,1051,0.8187179565429688
+I need to go to the cozy area.,"The goal area ""cozy area"" is not on the list of allowed choices. Here are the valid goal areas you can choose from:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Please specify one of these areas.",[],[],CLARIFICATION,66,1028,1094,1.433516502380371
+Move to the relaxation zone.,"It looks like ""relaxation zone"" is not one of the specified areas I can navigate to. Can you please specify one of the following valid areas?
+- kitchen
+- office
+- bedroom
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,61,1025,1086,1.228471279144287
+Guide me to the entertainment room.,"It seems like ""entertainment room"" is not one of the specified areas I can navigate to. Could you please specify a location from the following list?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,62,1026,1088,1.3309910297393799
+Direct me to the lounge area.,"The lounge area isn't listed in the available areas I can navigate to. Here are the available choices:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Could you please specify one of these areas as your destination?",[],[],CLARIFICATION,63,1026,1089,1.330822229385376
+I want to be in the space with the sofa.,"Could you please specify which area you are referring to? The available options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1030,1076,1.1265244483947754
+Lead me to the comfortable seating.,"Could you please specify which area you consider as the comfortable seating? Here are the options:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1026,1074,1.127704381942749
+Transport me to the hangout spot.,"The options available for navigation include: kitchen, office, bedroom, living room, dining room, workshop, garden, garage, and home.
+
+Could you please specify which of these areas you consider the hangout spot?",[],[],CLARIFICATION,44,1027,1071,1.1245174407958984
+To the place with the TV,"Could you please specify the exact area from the following list where you want me to go?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1025,1073,1.9462687969207764
+Can you go to the room with the couch?,"Could you please specify the room you mean by ""the room with the couch""? The options are:
+- kitchen
+- office
+- bedroom
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,49,1029,1078,1.3310365676879883
+Move to where the entertainment system is.,"I need to know which area the entertainment system is located in. Could you please specify the exact room from the following options: kitchen, office, bed room, living room, dining room, workshop, garden, or garage?",[],[],CLARIFICATION,46,1027,1073,1.1249868869781494
+I'd like to go to the family gathering spot.,"It seems like ""family gathering spot"" isn't a recognized location based on the available options. Could you please specify one of the following areas?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,58,1029,1087,1.231260061264038
+Navigate to where the cozy chairs are.,"Could you please specify the area where the cozy chairs are located from the following options: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,40,1027,1067,1.0216758251190186
+To the area with the coffee table,"The areas I can navigate to are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Please specify which of these areas you would like me to navigate to.",[],[],CLARIFICATION,53,1026,1079,1.1261825561523438
+Take me to the spot with the armchairs.,"Could you specify the area where the armchairs are located? The available options are:
+- kitchen
+- office
+- bedroom
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1029,1075,1.0233218669891357
+Move to the common area,"Could you please specify the exact area you mean by ""common area""? The options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1024,1072,1.228865385055542
+Guide me to the informal sitting space.,"It seems like ""informal sitting space"" isn't one of the specified goal areas. Can you please clarify which room you'd like to go to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,63,1027,1090,1.2288177013397217
+Transport me to the relaxation corner.,"It seems like ""relaxation corner"" is not one of the predefined areas I can navigate to. Could you please specify one of the following areas instead? 
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+
+Thank you!",[],[],CLARIFICATION,64,1026,1090,1.462085247039795
+To the zone with the fireplace,"Could you please specify the exact name of the area from the following list where the fireplace is located?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,50,1025,1075,1.097339391708374
+I need to be in the TV watching spot.,"Could you please specify the exact area you refer to as the ""TV watching spot""? Here are the available options:
+- living room
+- bed room
+- office
+- dining room
+- home
+- kitchen
+- workshop
+- garden
+- garage",[],[],CLARIFICATION,53,1029,1082,1.2302303314208984
+Can you go to where the conversation area is?,"Could you please specify the goal area from the following options: 
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+This will help me navigate to the correct location.",[],[],CLARIFICATION,54,1029,1083,1.2269351482391357
+I'd like to go to the room with the big screen.,"Could you please specify the room you'd like to go to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1031,1077,1.1260714530944824
+Take me to the socializing space.,"Could you please specify which area you consider as the socializing space from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1027,1075,1.1261556148529053
+Navigate to the space with the lounge chairs.,"Could you please specify the exact name of the area you want to navigate to from the following options?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,50,1028,1078,1.1262915134429932
+Move to the informal gathering area.,"It seems like you want to move to an informal gathering area, but I need you to specify the exact location from the following options:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+
+Please provide the exact location so I can proceed.",[],[],CLARIFICATION,65,1026,1091,1.2296686172485352
+I want to be in the hangout section.,"It seems ""hangout section"" isn't one of the specified areas I can navigate to. Could you please specify one of the following areas instead?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,59,1029,1088,1.1250817775726318
+Lead me to where the conversations happen.,"Could you specify the area where you want me to lead you? Your options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1027,1074,1.3312277793884277
+Transport me to the room with the entertainment setup.,"Could you please specify which room has the entertainment setup? The options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,1029,1074,1.126854419708252
+To the area with the bean bags,"It looks like you haven't specified an area from the list of available options. Could you please choose one from the following list?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,55,1026,1081,1.2310419082641602
+Can you go to the room with the media center?,"Could you please specify the room you are referring to from the following list?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,1030,1075,1.124293327331543
+I'd like to go to the place with the comfy seating.,"Could you please specify the exact location you have in mind from the following options? 
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1031,1078,1.3308007717132568
+Take me to the spot with the sectional sofa.,"Could you please specify which area the sectional sofa is located in from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1029,1076,1.0214760303497314
+Guide me to the TV viewing area.,"Could you please specify the exact name of the area where the TV viewing area is located? The options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,52,1027,1079,1.2298436164855957
+Navigate to where the relaxation happens.,"It seems like you're referring to a location where relaxation typically happens, such as the living room or garden. Could you please specify which area you'd like to navigate to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,67,1026,1093,1.5358531475067139
+Move to the space with the recliners.,"Could you please specify the exact area you'd like to go to from the following options?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1028,1075,1.1261591911315918
+I want to be in the room with the big screen TV.,"Could you please specify which room has the big screen TV from the following options: ""kitchen"", ""office"", ""bed room"", ""living room"", ""dining room"", ""workshop"", ""garden"", ""garage"", or ""home""?",[],[],CLARIFICATION,51,1032,1083,1.0648422241210938
+Lead me to the area with the cozy ambiance.,"Could you please specify the area you are referring to from the following list: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,38,1029,1067,1.010300874710083
+Transport me to the place with the home theater.,"Could you please specify the exact area you would like to be transported to from the following list: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,42,1029,1071,1.4059786796569824
+To the zone with the lounge furniture,"Could you please specify the exact name of the area from the following list: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" ""garage,"" or ""home""?",[],[],CLARIFICATION,50,1026,1076,1.3317375183105469
+Can you go to the living space?,"The available goal areas are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Could you please specify one of these areas?",[],[],CLARIFICATION,46,1027,1073,1.1253786087036133
+I'd like to go to the area with the entertainment setup.,"Could you please specify the exact area where the entertainment setup is located? The available areas are:
+
+- Kitchen
+- Office
+- Bed room
+- Living room
+- Dining room
+- Workshop
+- Garden
+- Garage
+- Home
+
+Once you specify the area, I can help navigate to it.",[],[],CLARIFICATION,63,1031,1094,1.3314321041107178
+Take me to the room with the comfortable seating.,"Could you please specify which room you would like to go to? Here are the available options:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,49,1029,1078,1.0227210521697998
+Guide me to the place with the movie night setup.,"I need you to specify the exact location from the following list where the movie night setup is:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Could you please provide the exact location?",[],[],CLARIFICATION,58,1030,1088,1.2286815643310547
+Navigate to where the family gathers.,"Could you please specify the exact location from the following list where the family usually gathers?
+- kitchen
+- living room
+- dining room",[],[],CLARIFICATION,28,1026,1054,0.9219624996185303
+Move to the space with the home cinema.,"Could you please specify the exact area from the following list where the home cinema is located?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1028,1076,1.1261475086212158
+I want to be in the room with the entertainment center.,"Can you please specify which room has the entertainment center? The options are:
+- kitchen
+- office
+- bedroom
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,44,1031,1075,1.0248613357543945
+Lead me to the area with the plush seating.,"Could you please specify the area you have in mind from the following choices?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,1029,1074,1.3308229446411133
+Transport me to the spot with the home entertainment.,"Could you please specify which room you'd like to be transported to? Your options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1029,1076,1.2277030944824219
+To the zone with the cozy sofas,"Could you please specify the exact area you would like to go to from the following options?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1026,1074,1.228682041168213
+Can you go to where the relaxation area is?,"Could you please specify which area you consider as the relaxation area from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1029,1076,0.9972937107086182
+I'd like to go to the room with the comfy chairs.,"Could you please specify the name of the room you'd like to go to from the following options: kitchen, office, bed room, living room, dining room, workshop, garden, or garage?",[],[],CLARIFICATION,40,1031,1071,1.7379224300384521
+Take me to the area with the TV lounge.,"Could you please specify the exact area you would like to go to from the following options: kitchen, office, bedroom, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,40,1029,1069,1.0527961254119873
+Guide me to where the socializing happens.,"The common areas for socializing in a home are typically the living room or dining room. Would you like me to guide you to one of these areas, or do you have a different area in mind?",[],[],CLARIFICATION,42,1028,1070,1.1259586811065674
+Navigate to the space with the home theater setup.,"Could you please specify which area from the following list has the home theater setup?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1029,1075,1.2280373573303223
+Move to the spot with the cozy nook.,"I don't have any information about a ""cozy nook"" as a specific location. Could you specify one of the following areas for navigation: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" ""garage,"" or ""home""?",[],[],CLARIFICATION,63,1028,1091,1.332812786102295
+I want to be in the room with the entertainment hub.,"Could you please specify which room you are referring to? The available options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1031,1077,1.1250834465026855
+Lead me to the area with the cozy corner.,"I need you to specify one of the available areas. Please choose one from the following list:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,49,1029,1078,1.230597734451294
+Transport me to where the movie nights happen.,"Could you please specify the area where the movie nights happen from the following list: ""kitchen"", ""office"", ""bed room"", ""living room"", ""dining room"", ""workshop"", ""garden"", ""garage"", or ""home""?",[],[],CLARIFICATION,51,1028,1079,1.055840253829956
+To the zone with the relaxation furniture,"It seems you are referring to a specific area in the house. Could you please specify the exact name of the area from the following list?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Thank you!",[],[],CLARIFICATION,62,1026,1088,1.1944200992584229
+Can you go to the room with the entertainment system?,"Could you please specify which room you mean by ""the room with the entertainment system""? The available options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+",[],[],CLARIFICATION,53,1030,1083,1.2290709018707275
+I'd like to go to the area with the comfortable couches.,"Could you please specify the exact area from the following list where you want to go: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" or ""garage""? The living room is often associated with comfortable couches, but I need your confirmation.",[],[],CLARIFICATION,65,1031,1096,1.332024335861206
+Take me to where the gatherings occur.,"Could you please specify the exact area you want to go to? The available options are:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1027,1075,1.12520170211792
+Guide me to the space with the home cinema setup.,"Could you please specify which area has the home cinema setup from the following options?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1030,1076,1.1258735656738281
+Navigate to the spot with the comfy lounge.,"Can you please specify the exact area from the following list: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home? This will help me navigate to the correct location.",[],[],CLARIFICATION,45,1028,1073,1.1263673305511475
+Move to the area with the family gathering space.,"To clarify, are you referring to the ""living room"" as the family gathering space?",[],[],CLARIFICATION,19,1029,1048,0.7168471813201904
+I want to be in the room with the entertainment setup.,"Could you please specify the exact area you would like to go to from the following options: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,41,1031,1072,1.0234801769256592
+Lead me to the zone with the cozy seating.,"Could you please specify the exact area you are referring to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,46,1029,1075,1.1261506080627441
+Transport me to where the movie marathons happen.,"Could you specify the exact location from the following options where the movie marathons happen: kitchen, office, bed room, living room, dining room, workshop, garden, or garage?",[],[],CLARIFICATION,38,1029,1067,0.9228932857513428
+To the area with the relaxation setup,"The goal area ""area with the relaxation setup"" is not a valid option. Could you please specify one of the valid areas listed below?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,58,1026,1084,1.227149486541748
+Can you go to the living area?,"I can certainly help with that. Do you mean the living room? If so, I can proceed to go there.",[],[],CLARIFICATION,25,1027,1052,0.819403886795044
+I'd like to go to the space with the big screen TV.,"Could you please specify the exact area you would like to go to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1032,1080,1.1258583068847656
+Take me to the room with the comfy sofas.,"Could you please specify the name of the room from the following options: kitchen, office, bed room, living room, dining room, workshop, garden, garage, home?",[],[],CLARIFICATION,36,1029,1065,1.229644775390625
+Guide me to where the movie nights take place.,"Could you please specify the area where the movie nights take place? The options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home
+
+Once you provide the area, I can guide you there.",[],[],CLARIFICATION,60,1029,1089,1.6372623443603516
+Navigate to the spot with the home entertainment system.,"Could you please specify the goal area where the home entertainment system is located? Here are the available options:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,51,1029,1080,1.1262271404266357
+Move to the area with the family room setup.,"Could you please specify the exact area from the following list: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" or ""garage""? The term ""family room"" isn't listed, but it might correspond to one of these.",[],[],CLARIFICATION,62,1029,1091,3.7011194229125977
+I want to be in the room with the entertainment console.,"Could you please specify which room you are referring to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,1031,1076,1.0087790489196777
+Lead me to the zone with the cozy atmosphere.,"Could you please specify which area or room you consider to have a cozy atmosphere? The options are: ""kitchen"", ""office"", ""bed room"", ""living room"", ""dining room"", ""workshop"", ""garden"", or ""garage"".",[],[],CLARIFICATION,52,1029,1081,1.433454990386963
+Transport me to where the movie screenings happen.,"Could you please specify the exact location from the following options where the movie screenings happen?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1028,1075,1.2286369800567627
+To the area with the relaxation zone,"The goal area you mentioned isn't in the list of allowed choices. Please specify one of the following areas: ""kitchen,"" ""office,"" ""bed room,"" ""living room,"" ""dining room,"" ""workshop,"" ""garden,"" or ""garage.""",[],[],CLARIFICATION,53,1026,1079,1.2284283638000488
+Can you go to the room with the cinema setup?,"Could you please specify which room that is from the following list?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,43,1030,1073,1.0237987041473389
+I'd like to go to the space with the comfy recliners.,"Could you please specify the exact area you want to go to from the list below?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1032,1079,1.126413345336914
+Take me to where the family relaxes.,"Could you please specify the exact location from the following list where the family relaxes?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1028,1075,1.228572130203247
+Guide me to the spot with the home cinema system.,"Could you please specify which area the home cinema system is located in from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1030,1078,1.1261818408966064
+Navigate to the area with the cozy living space.,"Could you please specify the exact area you want to navigate to from the following options: ""kitchen"", ""office"", ""bed room"", ""living room"", ""dining room"", ""workshop"", ""garden"", ""garage"", or ""home""?",[],[],CLARIFICATION,52,1029,1081,1.2287673950195312
+Move to the room with the entertainment area.,"Could you please specify the exact name of the room with the entertainment area from the following options? 
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,50,1028,1078,1.1259734630584717
+I want to be in the zone with the cozy environment.,"Could you please specify which area you'd like to go to from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+
+If you'd like to navigate through any specific areas before reaching your destination, please let me know that as well.",[],[],CLARIFICATION,66,1031,1097,1.4335472583770752
+Lead me to where the movie nights are held.,"Could you please specify which area you usually hold the movie nights in? The options are:
+- Kitchen
+- Office
+- Bed room
+- Living room
+- Dining room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,48,1029,1077,1.0238769054412842
+Transport me to the spot with the home theater.,"Could you please specify the exact area where the home theater is located? The available options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,49,1029,1078,1.4338796138763428
+To the area with the relaxation corner,"The area with the relaxation corner is not in the list of predefined areas. Can you please specify one of the following areas: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,48,1026,1074,1.0093262195587158
+Can you go to the room with the big TV?,"Could you please specify the room from the following list?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,41,1030,1071,1.037717580795288
+I'd like to go to the space with the comfortable seating.,"Could you please specify the name of the area you'd like to go to? The options are:
+- kitchen
+- office
+- bedroom
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,1031,1079,1.1272408962249756
+Take me to where the family hangs out.,"Could you please specify the exact location from the following list where the family hangs out?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,47,1028,1075,1.125208854675293
+Guide me to the spot with the home theater setup.,"Could you please specify which area or room the home theater setup is located in? The choices are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,50,1030,1080,1.229511022567749
+Navigate to the area with the cozy seating arrangement.,"Could you please specify the exact goal area from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,43,1029,1072,1.0233073234558105
+Move to the room with the entertainment setup.,"Could you please specify the room with the entertainment setup from the following options?
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,1028,1073,1.1258163452148438

@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you find a water bottle for me?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,313,335,0.354797601699829
+I need to locate a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,0.365810394287109
+Do you see any flask around here?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,312,334,0.418027639389038
+Could you spot a vessel typically used for drinks?,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,4.49138927459717
+Can you search for a receptacle commonly used to hold beverages?,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,317,332,3.3420193195343
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.312809944152832
+Is there a container for liquids nearby? Like a bottle,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,315,337,1.4616961479187
+Can you check if there's a glass bottle in the vicinity?,,['locate_object'],"['{""object"":""bottle""}']",SUCCESS,16,317,333,0.313385486602783
+Could you locate a bottle,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,309,325,48.4640951156616
+Do you notice any glassware suitable for drinks?,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",SUCCESS,28,314,342,0.417138338088989
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,314,336,0.417881727218628
+Is there a flask somewhere nearby?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,311,333,0.417203903198242
+Could you find a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,311,326,0.313468217849731
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.313786268234253
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.416380167007446
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,4.38658428192139
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,4.38655209541321
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,0.418861150741577
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.521097660064697
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313555240631104
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,48.5671339035034
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,0.314547300338745
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.312199831008911
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,0.313905000686645
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,313,334,0.31267523765564
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,314,336,0.418031692504883
+Is there a flask somewhere nearby?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,311,333,0.417142629623413
+Could you find a container for liquids,,"['locate_object', 'locate_object', 'locate_object']","['{""object"": ""cup"", ""object_found_condition"": true}', '{""object"": ""bottle"", ""object_found_condition"": true}', '{""object"": ""bowl"", ""object_found_condition"": true}']",FAILURE,80,311,391,5.32664728164673
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,3.34233736991882
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417499542236328
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313079595565796
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.31340503692627
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,48.566468000412
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.312751770019531
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.315091371536255
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,0.311784982681274
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,0.417155742645264
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313101768493652
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,0.31325101852417
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,28,313,341,5.53524804115295
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,314,336,3.55059266090393
+Is there a flask somewhere around here?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,312,341,0.522202730178833
+Could you find a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,311,326,0.313329696655273
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.312930345535278
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,48.463653087616
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.731390476226807
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.311953783035278
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,0.418555736541748
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.416917324066162
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.417606353759766
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417906045913696
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,4.28236269950867
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,3.34149360656738
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,1.46208310127258
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,313,334,0.418001413345337
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417415618896484
+Is there a flask somewhere nearby?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,311,333,48.5679838657379
+Could you find a container for liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313682079315186
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.312511920928955
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313069820404053
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417823553085327
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313128709793091
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.313256025314331
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,4.49059820175171
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,4.38634514808655
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313138484954834
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,0.417202949523926
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.417885303497314
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,48.4638483524323
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,28,313,341,0.417930364608765
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,314,330,0.313284635543823
+Is there a flask somewhere around here?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,312,341,0.416687965393066
+Could you find a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,311,326,0.313532590866089
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.522224903106689
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417115688323975
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,4.28180980682373
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,4.3867814540863
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.312904357910156
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313424348831177
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313470125198364
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,311,327,48.4634897708893
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.20832896232605
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.522430658340454
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,0.417040586471558
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,28,313,341,0.522173404693604
+Can you spot a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313396692276001
+Is there a flask somewhere nearby?,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,311,333,0.417178153991699
+Could you find a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,311,326,4.2815625667572
+Can you look around for a container that might hold drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,4.49156403541565
+Do you see any glass containers suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313122987747192
+Can you check if there's a vessel for drinks,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313003301620483
+I'm searching for a glass container used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417739629745483
+Can you find a container that's typically used for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,315,336,48.5682072639465
+Do you spot any glassware suitable for holding liquids,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,314,335,0.417070627212524
+Could you locate a vessel typically used for storing liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.313285350799561
+Is there a container for liquids nearby,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,311,332,0.417311906814575
+Can you search for a receptacle commonly used for beverages,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,315,330,0.313201427459717
+I'm looking for a container shaped like a cylinder,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,314,329,0.208965063095093
+Can you find me a container for liquids,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,312,327,0.312652826309204
+Do you notice any glassware suitable for drinks,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,313,334,4.38688349723816

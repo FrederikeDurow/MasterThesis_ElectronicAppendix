@@ -1,0 +1,407 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Head to the sleeping quarters.,"It seems like you might be referring to the ""bed room."" I'll navigate there now.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,39,700,739,1.016390085220337
+Move to the room where I sleep.,"Please specify the name of the room where you sleep from the following options:
+- bed room
+- living room
+- dining room
+- office
+- kitchen
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,45,702,747,1.1246042251586914
+Navigate to the resting area.,"It seems ""resting area"" is not a predefined location I recognize. Could you please specify one of the following areas: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,48,700,748,1.1258628368377686
+Direct towards the place with the bed.,"I will navigate to the bed room. Let's go there.
+
+Executing navigation now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,34,702,736,1.025200366973877
+Go to the chamber of rest.,"It looks like ""chamber of rest"" is not a recognized area. Could you please specify one of the following areas: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,48,701,749,2.456052780151367
+Proceed to the place with the mattress.,"The place with the mattress is likely to be the bedroom. I will navigate to the bedroom for you.
+
+Proceeding to the bedroom now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,46,702,748,1.0241239070892334
+Journey to the area with the bunk.,"It sounds like you are referring to the ""bed room."" I will navigate to the bed room for you.
+
+Let's proceed.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,702,745,1.2317161560058594
+Advance to the sleeping space.,"To confirm, would you like me to navigate to the ""bed room""?",[],[],CLARIFICATION,16,700,716,0.7130000591278076
+Go to the place where I slumber.,"I will navigate to the bedroom for you.
+
+Proceeding to the bedroom now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,34,703,737,0.9239757061004639
+Move to the area with the bedstead.,"It sounds like you want me to move to the bedroom. I will go ahead and do that.
+
+Executing the move now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,703,746,1.124220609664917
+Navigate to the room with the pillows.,"It sounds like you want to navigate to the bedroom. I'll proceed to the bedroom now.
+
+Executing the command to navigate to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,45,702,747,1.0236613750457764
+Head towards the resting quarters.,"Could you please specify the exact area you mean by ""resting quarters""? The options are:
+
+- Bed room
+- Living room
+- Home",[],[],CLARIFICATION,30,700,730,0.9212193489074707
+Proceed to the area with the bedding.,"I'll navigate to the bedroom for you. Let's proceed there.
+
+Executing now...",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,33,702,735,1.023576259613037
+Go to the place where I retire.,"It sounds like you might be referring to the ""bed room."" Is that correct?",[],[],CLARIFICATION,18,702,720,0.7169342041015625
+Move to the location with the duvet.,"The location with the duvet is typically the bedroom. I'll navigate to the bedroom.
+
+Executing the task now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,39,702,741,1.0235590934753418
+Journey to the sleeping zone.,"Just to clarify, by ""sleeping zone,"" do you mean the ""bed room""?",[],[],CLARIFICATION,19,700,719,0.8188979625701904
+Direct towards the area with the blanket.,"I don't have information on where the blanket is located. Could you specify the area you'd like me to navigate to? Here are the options:
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,58,702,760,1.3311388492584229
+Advance to the place where I nap.,"Could you please specify the area where you usually nap? The options are:
+- bed room
+- living room
+- home",[],[],CLARIFICATION,26,702,728,0.8193998336791992
+Head to the room with the mattress.,"It sounds like you want me to go to the bedroom. I'll head there now.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,35,702,737,0.9216816425323486
+Navigate to the sleeping sanctuary.,"I don't recognize ""sleeping sanctuary"" as a valid area. Could you please choose one of the following areas instead?
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,54,700,754,1.2438368797302246
+Proceed to the area with the comforter.,"It sounds like you're referring to the ""bed room"" as the area with the comforter. I'll navigate there now.
+
+Let's proceed.
+
+Executing command to go to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,54,703,757,1.2129127979278564
+Go to the place where I rest.,"Just to confirm, do you rest in the bed room or any other area?",[],[],CLARIFICATION,17,702,719,0.6138300895690918
+Move to the location with the sheets.,"Could you please specify the exact area where the sheets are located? The available options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,48,702,750,1.126760721206665
+Journey to the slumber chamber.,"It seems like you want me to navigate to the ""bed room."" I will proceed with that.
+
+Let's go to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,45,701,746,1.1259315013885498
+Direct towards the area with the bedclothes.,"It sounds like you're referring to the ""bed room."" I will navigate to the bedroom. 
+
+Proceeding now.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,704,745,1.0240099430084229
+Advance to the place where I snooze.,"I will navigate to the bedroom. Let's proceed.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,31,703,734,0.9235174655914307
+Head to the room with the bed.,"To clarify, would you like me to navigate to the bedroom?",[],[],CLARIFICATION,14,702,716,0.7131705284118652
+Navigate to the sleeping quarters.,"I am not familiar with the term ""sleeping quarters."" Could you please specify one of the following areas: ""bed room,"" ""living room,"" ""dining room,"" ""kitchen,"" ""office,"" ""workshop,"" ""garden,"" ""garage,"" or ""home""?",[],[],CLARIFICATION,57,700,757,1.0248935222625732
+Proceed to the area with the pillow.,"The area with a pillow is most likely the bedroom. I will navigate to the bedroom now.
+
+Proceeding to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,702,745,1.1271405220031738
+Go to the place where I lie down.,I will navigate to the bedroom for you.,['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,27,703,730,0.9200906753540039
+Move to the location with the mattress.,"The location with the mattress is likely the ""bed room."" I will navigate to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,38,702,740,0.9215261936187744
+Journey to the sleeping space.,"It sounds like you want me to navigate to the bed room. I'll proceed to the bed room now.
+
+Executing the navigation.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,700,743,1.0238003730773926
+Direct towards the area with the quilt.,"I don't have information about where the quilt is located. Could you please specify the area you want me to navigate to from the following options?
+
+- Kitchen
+- Office
+- Bed room
+- Living room
+- Dining room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,58,702,760,1.1255757808685303
+Advance to the place where I dream.,It sounds like you might be referring to the bedroom. Shall I navigate to the bedroom for you?,[],[],CLARIFICATION,21,702,723,1.0236220359802246
+Head to the room with the bunk.,"I don't have a specific room labeled as ""the room with the bunk."" Could you please specify the name of the room from the following options?
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,59,702,761,1.1269543170928955
+Navigate to the sleeping zone.,"It seems like you're referring to the bedroom. I will navigate to the bedroom for you.
+
+Let's go to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,42,700,742,1.0238378047943115
+Proceed to the area with the comforter.,It sounds like you might be referring to the bedroom. Should I proceed to the bedroom?,[],[],CLARIFICATION,19,703,722,0.7186129093170166
+Go to the place where I sleep.,"I understand you want to go to the bedroom. I'll navigate there now.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,36,702,738,0.920567512512207
+Move to the location with the blanket.,"I don't have information about a location specifically associated with a blanket. Could you specify the area you would like me to navigate to, such as the bedroom, living room, or any other area?",[],[],CLARIFICATION,40,702,742,0.9198873043060303
+Journey to the restful chamber.,"Just to clarify, did you mean to navigate to the ""bed room""?",[],[],CLARIFICATION,16,700,716,0.716510534286499
+Direct towards the area with the bedstead.,"It seems like you are referring to the bedroom. I'll navigate to the bedroom.
+
+Initiating navigation to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,703,744,1.0239012241363525
+Advance to the place where I slumber.,"I assume you mean the ""bed room."" I'll navigate there for you.
+
+Let's go to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,39,703,742,0.9210748672485352
+Head to the room with the duvet.,"It seems like you are referring to a bedroom. I will navigate to the bedroom for you.
+
+Heading to the bedroom now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,702,745,1.1267240047454834
+Navigate to the sleeping sanctuary.,"It seems ""sleeping sanctuary"" is not in my list of valid areas. Could you please specify if you mean one of the following areas: 
+
+- Bed room
+- Living room
+- Home
+
+Let me know which one to navigate to!",[],[],CLARIFICATION,51,700,751,1.3300137519836426
+Proceed to the area with the bedclothes.,"I assume you mean the bedroom, as it is typically associated with bedclothes. I'll navigate to the bedroom now.
+
+Executing command to navigate to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,50,704,754,1.331284999847412
+Go to the place where I nap.,Do you usually nap in the bed room or another area?,[],[],CLARIFICATION,13,702,715,0.7171216011047363
+Move to the location with the sheets.,The typical location for sheets would be the bed room. Would you like me to navigate to the bed room?,[],[],CLARIFICATION,23,702,725,0.7157714366912842
+Journey to the slumber space.,"It sounds like you want to go to the bedroom. I'll navigate to the bedroom now.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,39,701,740,1.024526834487915
+Direct towards the area with the mattress.,"The area with the mattress is typically the ""bed room."" I will navigate to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,38,702,740,1.3332157135009766
+Advance to the place where I rest.,"Just to confirm, do you mean the ""bed room""?",[],[],CLARIFICATION,13,702,715,0.7136943340301514
+Head to the room where I sleep at night.,"Can you please specify the exact name of the room where you sleep? The available options are:
+- bed room
+- living room
+- dining room
+- office
+- kitchen
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,49,704,753,1.0243782997131348
+Navigate to the area with the bed for me.,,['go_to_area'],"['{""goal_area"":""bed room""}']",FAILURE,17,704,721,0.7162661552429199
+Proceed to the space where I usually sleep.,It sounds like you want me to navigate to the bedroom. I'll go there now.,['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,35,703,738,1.1270372867584229
+Go to the spot where I typically rest.,"I don't know your specific resting spot. Could you please specify which area it is? Here are the options you can choose from:
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,56,703,759,1.2276241779327393
+Move to the place where I usually sleep.,"Could you please specify the area where you usually sleep? Here are the options:
+- Bed Room
+- Living Room",[],[],CLARIFICATION,24,703,727,0.7167050838470459
+Journey to the bed location.,"It looks like you want to navigate to the bedroom. I'll take you there now.
+
+Let's go to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,700,741,1.0238409042358398
+Direct towards the area where I usually sleep.,"I assume you are referring to the ""bed room."" I will navigate to the bed room now.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,38,703,741,1.0239171981811523
+Advance to the usual sleeping area.,"It sounds like you might be referring to the ""bed room."" I'll navigate there for you.
+
+Proceeding to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,43,701,744,1.023982286453247
+Head to the room where I rest.,"Could you please specify which room you rest in? The options I understand are:
+
+- bedroom
+- living room
+- dining room",[],[],CLARIFICATION,27,702,729,0.8182835578918457
+Navigate to the typical sleeping place.,It sounds like you want to navigate to the bedroom. Shall I proceed with that?,[],[],CLARIFICATION,18,701,719,0.8209643363952637
+Proceed to where I normally sleep.,Can you please confirm which area you normally sleep in? Is it the bed room?,[],[],CLARIFICATION,18,701,719,1.3293910026550293
+Go to where I commonly rest.,It sounds like you may be referring to a place like the bed room or the living room. Could you please specify which one you'd like me to navigate to?,[],[],CLARIFICATION,33,701,734,0.9216620922088623
+Move to the area where I often sleep.,"You often sleep in the bedroom. I will navigate to the bedroom now.
+
+Executing the command to go to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,42,703,745,1.228546380996704
+Journey to the habitual sleeping spot.,"Could you please specify the exact area from the following options: ""bed room,"" ""living room,"" or any other area you have in mind?",[],[],CLARIFICATION,30,701,731,0.8197479248046875
+Direct towards the familiar sleeping place.,"Could you please specify the area you are referring to? The available options are:
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,46,701,747,1.0239951610565186
+Advance to where I habitually sleep.,"I understand you want me to navigate to the bedroom. I'll proceed with that.
+
+Executing now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,37,702,739,1.0228071212768555
+Head to the room where I usually retire.,"Could you please specify the room where you usually retire from the following options?
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,45,703,748,1.0239806175231934
+Navigate to the customary sleeping area.,"It sounds like you want me to navigate to the bedroom. I'll head there now.
+
+Executing navigation to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,701,742,1.0242819786071777
+Proceed to the place where I regularly sleep.,"I assume you sleep in the bedroom. I'll navigate there.
+
+Navigating to the bedroom now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,37,703,740,1.0231213569641113
+Go to the location where I typically nap.,"Can you please specify the area where you typically nap? The options are:
+
+- Bed room
+- Living room
+- Other (please specify)",[],[],CLARIFICATION,30,703,733,0.8183000087738037
+Move to the spot where I habitually rest.,"To proceed, could you please specify the area where you usually rest? Here are the options I understand:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,51,704,755,1.0243031978607178
+Journey to the standard sleeping space.,"Let's navigate to the bedroom.
+
+I'll start navigating now.
+
+Executing the action...",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,33,701,734,0.9235889911651611
+Direct towards the usual sleeping spot.,"I can help direct you to a specific area in the house. Could you please specify the exact area you refer to as the ""usual sleeping spot""? Here are the available options:
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,66,701,767,1.2262108325958252
+Advance to the place where I usually slumber.,"Just to confirm, do you refer to your bedroom as the place where you usually slumber? If so, I'll navigate to the bedroom.",[],[],CLARIFICATION,29,704,733,0.8184304237365723
+Head to the room where I habitually sleep.,"I assume the room you habitually sleep in is the bedroom. I will navigate there.
+
+Is that correct?",[],[],CLARIFICATION,23,704,727,0.7167682647705078
+Navigate to the normal sleeping area.,"To clarify, by ""normal sleeping area,"" do you mean the ""bed room""?",[],[],CLARIFICATION,18,701,719,0.7165932655334473
+Proceed to the place where I commonly sleep.,"That would be the bedroom. I'll navigate there now.
+
+Executing navigation to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,35,703,738,0.950495719909668
+Go to where I usually snooze.,"I don't have information on where you usually snooze. Could you specify the area from the following options: bed room, living room, or any other area you prefer?",[],[],CLARIFICATION,35,702,737,0.8917884826660156
+Move to the area where I habitually nap.,"Could you specify the area where you usually nap? The options available are:
+
+- Bed room
+- Living room
+- Other areas in the list (if applicable)
+
+Please choose from these options.",[],[],CLARIFICATION,40,704,744,0.9242918491363525
+Journey to the typical sleeping zone.,"I will navigate to the bedroom, which is typically considered the sleeping zone.
+
+Executing the navigation now.
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,38,701,739,1.1237599849700928
+Direct towards the regular sleeping spot.,"I do not have a specific area labeled as the ""regular sleeping spot."" Could you please specify one of the following areas?
+
+- Kitchen
+- Office
+- Bedroom
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,54,701,755,1.0234055519104004
+Advance to the place where I usually lie down.,"Could you please specify the area where you usually lie down? The options are:
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,46,704,750,1.0237350463867188
+Head to the room where I normally sleep.,"Could you please specify the room where you normally sleep from the following options?
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,39,703,742,1.0237505435943604
+Navigate to the familiar sleeping area.,"It looks like you might be referring to a specific area, but I need you to specify the exact area name from the following options: ""bed room"", ""living room"", ""dining room"", ""kitchen"", ""office"", ""workshop"", ""garden"", ""garage"", or ""home"".
+
+Could you please provide the exact area name?",[],[],CLARIFICATION,71,701,772,1.2290318012237549
+Proceed to the place where I often rest.,"It sounds like the place you often rest is likely the bedroom. I'll navigate there.
+
+Let's head to the bedroom.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,703,744,1.0243730545043945
+Go to where I customarily sleep.,I assume that you customarily sleep in the bedroom. Is that correct?,[],[],CLARIFICATION,16,702,718,0.6140313148498535
+Move to the area where I regularly nap.,"I don't know which specific area you usually nap in. Could you please specify the area from the following options: ""bed room,"" ""living room,"" ""garden,"" or any other area from the list?",[],[],CLARIFICATION,42,703,745,0.9225609302520752
+Journey to the standard sleeping zone.,"It seems you're referring to the ""bed room."" I'll navigate there now.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,36,701,737,1.2272999286651611
+Direct towards the usual resting spot.,"I need a specific area to navigate to. Could you please specify which area you would like me to go to? The options are:
+
+- kitchen
+- office
+- bed room
+- living room
+- dining room
+- workshop
+- garden
+- garage
+- home",[],[],CLARIFICATION,57,701,758,3.4813570976257324
+Advance to the place where I frequently slumber.,"Let's head to the bedroom.
+
+I'll navigate to the bedroom now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,31,704,735,1.331066370010376
+Head to the room where I typically snooze.,"I will navigate to the bedroom. One moment, please.
+
+Executing now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,33,704,737,0.9225425720214844
+Navigate to the customary sleeping area.,"The customary sleeping area is typically referred to as the ""bed room."" I will navigate there now.
+
+Executing navigation...
+
+",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,41,701,742,1.124925136566162
+Proceed to the place where I habitually rest.,"Please specify the area where you usually rest from the following options:
+- Bed room
+- Living room",[],[],CLARIFICATION,21,704,725,0.8186523914337158
+Go to where I commonly nap.,I assume you commonly nap in the bed room. I'll navigate to the bed room now.,['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,36,701,737,1.0240883827209473
+Move to the area where I typically sleep.,"You typically sleep in the bed room. I'll navigate there for you.
+
+Executing now.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,35,703,738,1.2285292148590088
+Journey to the habitual sleeping zone.,"It sounds like you want to go to the bed room. I will navigate there for you.
+
+Executing the navigation to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,45,701,746,1.2287085056304932
+Direct towards the familiar resting spot.,"I'm not sure which area you consider your familiar resting spot. Could you please specify one of the following areas: kitchen, office, bed room, living room, dining room, workshop, garden, garage, or home?",[],[],CLARIFICATION,45,701,746,1.0246236324310303
+Advance to the place where I usually dream.,"You likely mean the ""bed room."" I will navigate there for you.
+
+Executing command to go to the bed room.",['go_to_area'],"['{""goal_area"":""bed room""}']",CLARIFICATION,42,703,745,1.0260980129241943
+Head to the room where I usually take a nap.,"Could you please specify the room where you usually take a nap? Your options are:
+
+- bed room
+- living room",[],[],CLARIFICATION,25,705,730,1.4325454235076904
+Navigate to the usual sleeping area.,"Could you please specify which area is the usual sleeping area? Your options are:
+
+- Kitchen
+- Office
+- Bed Room
+- Living Room
+- Dining Room
+- Workshop
+- Garden
+- Garage
+- Home",[],[],CLARIFICATION,46,701,747,1.1234376430511475

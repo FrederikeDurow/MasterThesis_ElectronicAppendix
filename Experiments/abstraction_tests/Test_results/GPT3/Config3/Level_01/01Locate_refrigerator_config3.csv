@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you find where the fridge is?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,732,749,8.69492220878601
+I need help locating the refrigerator.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,731,748,49.69086194038391
+Could you search for the fridge,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,730,747,0.2826099395751953
+I'm looking for the cooling appliance,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,731,748,0.311145544052124
+Is it possible to locate the place where I can find chilled items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,0.21435832977294922
+Help me find where I can keep my groceries cool.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,735,752,0.39374804496765137
+Can you track down the refrigerator for me?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.35616588592529297
+I'm searching for the cold storage unit,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,732,749,0.27359533309936523
+Where's the spot for storing perishables at low temperatures?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.2438983917236328
+Can you locate the appliance that keeps food cold?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.2511115074157715
+Could you help me find the cooling device in the kitchen?,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""kitchen""}']",SUCCESS,24,736,760,8.766608953475952
+Do you know where I can find something to keep drinks cold?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,49.50184106826782
+Can you locate the place where I store my milk?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,735,752,0.30721068382263184
+I need to find the fridge,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,730,747,0.23358702659606934
+Where's the thing I put my vegetables in to keep them fresh?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,0.4807894229888916
+Could you help me locate the appliance that stores chilled food?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.30696845054626465
+I'm looking for the icebox,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,731,748,0.30678248405456543
+Help me find where the frozen items are stored.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.3062257766723633
+Can you locate the cooling equipment for food?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.30662083625793457
+Where can I find the cold storage for my groceries?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,735,752,0.3078427314758301
+Could you help me find the refrigerator,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,731,748,8.600212097167969
+Can you track down the place where I store my cold drinks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,49.463730335235596
+I need to find where I keep my frozen goods,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.2726569175720215
+Where's the fridge kept in this place?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.3144211769104004
+Can you locate the cooling unit where I keep my beverages?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.2947731018066406
+I'm looking for the refrigeration unit,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,732,749,0.24976730346679688
+Help me find where I store my ice cream.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.26645755767822266
+Can you locate the appliance where I keep my frozen desserts?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.23453807830810547
+I need to find where I store my perishable items,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,735,752,0.2764444351196289
+Where's the place I store my chilled snacks?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.2703671455383301
+Can you find where I keep my frozen treats?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,9.626554489135742
+I'm searching for the place where I store my cold snacks,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,48.49910593032837
+Help me locate the appliance where I keep my chilled beverages.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.3070182800292969
+Can you find the cooling equipment for food storage?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.3070716857910156
+Where's the spot where I store my frozen goods?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,735,752,0.30699944496154785
+Can you locate the device where I keep my perishable food items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,0.409304141998291
+I need help finding the appliance where I store my cold drinks.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.4094831943511963
+Where's the place I store my frozen foods?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.3072383403778076
+Can you find the appliance where I store my chilled snacks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.3029048442840576
+I need help locating the cooling unit where I store my perishable items.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,739,756,0.31092381477355957
+Where's the refrigerator located?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,730,747,9.49428677558899
+Can you find where I keep my cold beverages?,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,734,750,49.03888416290283
+I need assistance in locating the cold storage area.,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.2617166042327881
+Where's the place I store my chilled items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.39119529724121094
+Can you find where I keep my frozen desserts?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.309528112411499
+I'm looking for the spot where I store my cold snacks.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.4073328971862793
+Where's the fridge kept in this house?,I can help you with that. Let me locate the refrigerator for you.,['locate_object'],"['{""object"":""refrigerator""}']",CLARIFICATION,33,733,766,0.6146197319030762
+Can you locate the device where I store my perishable food?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.30683398246765137
+I need help finding the appliance where I store my frozen treats.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.40995264053344727
+Where's the place I keep my chilled drinks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.3070068359375
+Can you find where I store my ice cream?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,8.499724864959717
+I need assistance in locating the cold storage unit.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,49.664294958114624
+Where's the fridge located?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,730,747,0.40961718559265137
+Can you find where I keep my cold snacks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.30522894859313965
+I'm looking for the appliance where I store my chilled beverages.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.5120344161987305
+Where's the place I keep my frozen treats?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.40945887565612793
+Can you locate the device where I store my cold items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.8618299961090088
+I need help finding the refrigerator.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,731,748,0.36751461029052734
+Where's the place I keep my chilled food?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.30688977241516113
+Can you find where I store my frozen goods?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.30634570121765137
+I'm looking for the appliance where I store my perishable items.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,7.475087404251099
+Where's the fridge located in this house?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,49.66420888900757
+Can you locate the device where I store my chilled snacks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.4109668731689453
+I need help finding the cooling unit.,,['locate_object'],"['{""object"":""cooling unit""}']",FAILURE,17,732,749,0.30679941177368164
+Where's the place I keep my cold desserts?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.30570340156555176
+Can you find where I store my frozen snacks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.30707788467407227
+I'm looking for the appliance where I store my cold treats.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.3070042133331299
+Where's the fridge kept?,"I can help you with that. However, before I assist you, could you please specify the area where you are currently located? For example, are you in the kitchen, living room, or another area of the house?",[],[],CLARIFICATION,46,730,776,1.6381444931030273
+Can you locate the device where I store my chilled drinks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.3072683811187744
+I need help finding the refrigeration unit.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.3069443702697754
+Where's the place I keep my cold food?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,6.5535666942596436
+Can you find where I store my frozen treats?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,50.688360929489136
+I'm looking for the appliance where I keep my perishable goods.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,0.30698442459106445
+Where's the fridge located in this place?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.3075594902038574
+Can you locate the device where I store my chilled items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.30664968490600586
+I need help finding the cooling device.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,732,749,0.29310011863708496
+Where's the place I keep my frozen desserts?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.42377138137817383
+Can you find where I store my cold snacks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,1.434544324874878
+I'm looking for the appliance where I keep my chilled food.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.3056354522705078
+Where's the fridge kept in this building?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.31061625480651855
+Can you locate the device where I store my frozen items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,6.5492401123046875
+I need help finding the refrigeration equipment.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,50.58640789985657
+Where's the place I keep my chilled drinks?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.30739760398864746
+Can you find where I store my frozen treats?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.26540184020996094
+I'm looking for the appliance where I keep my perishable food.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,738,755,0.45500826835632324
+Where's the fridge located in this apartment?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.4049100875854492
+Can you locate the device where I store my cold beverages?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.30699682235717773
+I need help finding the cooling system.,,['locate_object'],"['{""object"":""cooling system""}']",FAILURE,17,732,749,1.3322536945343018
+Where's the place I keep my frozen snacks?,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,734,751,0.30591893196105957
+Can you find where I store my chilled desserts?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.40912294387817383
+I'm looking for the appliance where I keep my cold items.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,6.555155038833618
+Where's the fridge located in this room?,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""kitchen""}']",SUCCESS,24,733,757,50.892759799957275
+Can you locate the device where I store my perishable goods?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.3031177520751953
+I need help finding the refrigeration appliance.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.31018948554992676
+Where's the place I keep my chilled food items?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,735,752,0.30791282653808594
+Can you find where I store my frozen treats?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,734,751,0.3067147731781006
+I'm looking for the appliance where I keep my cold snacks.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,737,754,0.30727505683898926
+Where's the fridge kept in this area?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,733,750,0.5098006725311279
+Can you locate the device where I store my chilled beverages?,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,736,753,0.9039363861083984
+I need help finding the cooling mechanism.,,['locate_object'],"['{""object"":""refrigerator""}']",FAILURE,17,732,749,0.31255483627319336

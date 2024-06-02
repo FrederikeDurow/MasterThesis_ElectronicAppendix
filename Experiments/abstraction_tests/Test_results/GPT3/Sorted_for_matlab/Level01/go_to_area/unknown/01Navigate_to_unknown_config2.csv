@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Could you please head over to the garden?,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,451,469,0.350780487060547
+I need you to navigate to the library,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Library""}']",FAILURE,48,450,498,0.510944604873657
+Can you go to the park area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.526208162307739
+Please direct yourself to the gym zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,450,499,0.514174461364746
+I require you to move to the playground,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,450,468,0.221081256866455
+Could you navigate to the hospital area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Hospital""}']",FAILURE,48,449,497,0.582180738449097
+Can you move to the mall space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Living Room""}']",FAILURE,49,449,498,0.613640308380127
+Please go to the beach section.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.613941192626953
+I need you to head towards the museum,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,8.49951529502869
+Could you navigate to the cinema area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Cinema""}']",FAILURE,49,449,498,0.511601686477661
+Can you move to the stadium location,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,449,497,47.9139971733093
+Please go to the zoo space,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.316253185272217
+I require you to navigate to the cafe zone,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,451,470,0.250995635986328
+Could you please move to the bank area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Kitchen""}']",FAILURE,48,451,499,0.583736658096314
+Can you head over to the church location,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,450,498,0.598782062530518
+Please make your way to the airport section.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",FAILURE,17,451,468,0.203776121139526
+I need you to go to the hospital space,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,451,468,0.230559110641479
+Could you please navigate to the university zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""University""}']",FAILURE,48,451,499,0.554235696792603
+Can you go to the train station area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home"", ""go_through_areas"": ""Garage""}']",FAILURE,55,450,505,0.470711469650269
+Please direct yourself to the office building,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",FAILURE,17,449,466,9.59837198257446
+I require you to move to the restaurant space,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,451,470,0.304958343505859
+Could you go to the shopping mall area,,['go_to_area_behavior'],"['{""goal_area"":""Shopping Mall""}']",FAILURE,18,450,468,47.7188220024109
+Can you please navigate to the museum?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,450,498,0.819687128067017
+Please move to the playground section,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,448,497,0.907054424285889
+I need you to navigate to the zoo area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,0.527036428451538
+Could you please head towards the library?,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.410413265228272
+Can you navigate to the park space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,449,498,0.522963523864746
+Please go to the cinema location,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,448,465,0.394953966140747
+I require you to move to the gym area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,451,500,0.423859834671021
+Could you please navigate to the beach zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Beach""}']",FAILURE,49,451,500,0.599766254425049
+Can you go to the cafe area,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",FAILURE,17,449,466,8.52295589447022
+Please head over to the stadium space,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,449,466,0.288434267044067
+I need you to move to the airport location,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,48.1234033107758
+Could you please navigate to the bank zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,451,499,0.512030363082886
+Can you go to the church area,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,449,466,0.272304773330688
+Please direct yourself to the university space,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.545938491821289
+I require you to move to the office building area,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",FAILURE,17,452,469,0.311093091964722
+Could you please go to the restaurant zone?,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,451,470,0.303160905838013
+Can you navigate to the shopping mall space,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,450,468,0.305268049240112
+Please make your way to the train station,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.258181095123291
+I need you to go to the hospital section,,['go_to_area_behavior'],"['{""goal_area"":""Home"",""go_through_areas"":""Hospital""}']",FAILURE,23,451,474,0.560843944549561
+Could you navigate to the zoo zone,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Zoo""}']",FAILURE,49,449,498,9.93313479423523
+Can you please head towards the playground area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,0.580104827880859
+Please move to the museum space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Living Room""}']",FAILURE,49,448,497,46.9350891113281
+I require you to navigate to the library zone,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,451,469,0.240442991256714
+Could you please head over to the park area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,452,501,0.531675100326538
+Can you navigate to the cinema space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Living Room""}']",FAILURE,49,449,498,0.434914112091064
+Please go to the gym location,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.279981374740601
+I need you to move to the beach section,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,0.570214033126831
+Could you please navigate to the cafe zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,451,501,0.554455995559692
+Can you go to the stadium area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,449,497,0.660272359848022
+Please direct yourself to the airport space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,0.512737274169922
+I require you to move to the bank zone,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",FAILURE,17,451,468,8.66004824638367
+Could you please navigate to the church area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,451,499,1.68051052093506
+Can you go to the university space,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",FAILURE,17,449,466,46.5917432308197
+Please head over to the office building zone,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",FAILURE,17,450,467,0.308678388595581
+I need you to move to the restaurant area,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,451,470,0.407945394515991
+Could you navigate to the shopping mall zone,,['go_to_area_behavior'],"['{""goal_area"":""Shopping Mall""}']",FAILURE,18,450,468,0.30651330947876
+Can you please go to the train station?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,451,499,0.695895433425903
+Please make your way to the hospital space,,['go_to_area_behavior'],"['{""goal_area"":""Hospital""}']",FAILURE,17,450,467,0.209775686264038
+I require you to navigate to the zoo area,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,451,469,0.214437246322632
+Could you please go to the playground zone?,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garden""}', '{""object"": ""bowl""}']",FAILURE,49,451,500,0.721978425979614
+Can you navigate to the museum area,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,449,467,0.306956768035889
+Please head towards the library space,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,9.72751975059509
+I need you to move to the park section,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,1.58567023277283
+Could you please navigate to the cinema zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,451,499,47.0552682876587
+Can you go to the gym area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.51178240776062
+Please direct yourself to the beach location,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.232414245605469
+I require you to move to the cafe section,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,451,470,0.279117822647095
+Could you please navigate to the stadium area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Stadium""}']",FAILURE,49,451,500,0.614275932312012
+Can you go to the airport space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.510377168655396
+Please head over to the bank zone,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307553291320801
+I need you to move to the church area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Church""}']",FAILURE,48,451,499,0.61362886428833
+Could you please navigate to the university zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""University""}']",FAILURE,48,451,499,0.511000633239746
+Can you go to the office building space,,['go_to_area_behavior'],"['{""goal_area"":""Office""}']",FAILURE,17,450,467,8.60193061828613
+Please make your way to the restaurant area,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,450,469,1.33116722106934
+I require you to navigate to the shopping mall zone,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,452,470,46.7969768047333
+Could you please go to the train station area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,452,500,0.554274559020996
+Can you navigate to the hospital space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Hospital""}']",FAILURE,48,449,497,0.572853803634644
+Please head towards the zoo zone,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,448,466,0.407002687454224
+I need you to move to the playground area,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,0.615802526473999
+Could you please navigate to the museum zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Home""}']",FAILURE,48,451,499,0.613124847412109
+Can you go to the library space,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Office""}']",FAILURE,48,449,497,0.615663051605225
+Please direct yourself to the park area,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,449,467,0.246817827224731
+I require you to move to the cinema section,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,451,469,0.365836620330811
+Could you please navigate to the gym zone?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garden""}']",FAILURE,49,451,500,8.80581712722778
+Can you go to the beach area,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Home""}', '{""object"": ""bowl""}']",FAILURE,48,449,497,1.74119567871094
+Please head over to the cafe zone,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,449,468,46.7964313030243
+I need you to move to the stadium space,,['go_to_area_behavior'],"['{""goal_area"":""Stadium""}']",FAILURE,18,451,469,0.307846546173096
+Could you please navigate to the airport area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,0.511529445648193
+Can you go to the bank space,,['go_to_area_behavior'],"['{""goal_area"":""Bank""}']",FAILURE,17,449,466,0.307334184646606
+Please make your way to the church zone,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.306368827819824
+I require you to navigate to the university area,,['go_to_area_behavior'],"['{""goal_area"":""University""}']",FAILURE,17,451,468,0.306837320327759
+Could you please go to the office building zone?,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Office""}', '{""object"": ""bowl""}']",FAILURE,48,452,500,0.614071607589722
+Can you navigate to the restaurant space,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,449,468,0.306968450546265
+Please head towards the shopping mall area,,['go_to_area_behavior'],"['{""goal_area"":""Home""}']",FAILURE,17,449,466,0.307251930236816
+I need you to move to the train station section,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Dining Room""}']",FAILURE,25,452,477,8.703204870224
+Could you please navigate to the hospital zone?,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Hospital""}', '{""object"": ""bowl""}']",FAILURE,48,451,499,1.63799071311951
+Can you go to the zoo area,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,449,467,47.7183248996735
+Please direct yourself to the playground space,,['go_to_area_behavior'],"['{""goal_area"":""Garden""}']",FAILURE,18,449,467,0.308425426483154

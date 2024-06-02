@@ -1,0 +1,86 @@
+############### IDEA FOR NAVIGATION ####################
+
+http://wiki.ros.org/rtabmap_ros/Tutorials/HandHeldMapping
+
+Copy the SLAM .py files and change the parameters: 
+-"Mem/IncrementalMemory" to "false"
+-the argument "--delete_db_on_start" must not be set!
+
+This will make sure that the robot will not continuesly update the map. Though it seems like the rtabmap.launch can be called wiht localization:=true that does everything for you.
+
+This github respository about rtabm with nav2. Down in it mabble talks that he added turtlebot launch:
+https://github.com/introlab/rtabmap_ros/issues/696
+
+rtabmap_ros/rtabmap_demos/launch/
+
+# Example:
+#   $ export TURTLEBOT3_MODEL=waffle
+#   $ ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+#
+#   SLAM:
+#   $ ros2 launch rtabmap_demos turtlebot3_rgbd_sync.launch.py
+#   OR
+#   $ ros2 launch rtabmap_launch rtabmap.launch.py visual_odometry:=false frame_id:=base_footprint subscribe_scan:=true  approx_sync:=true approx_rgbd_sync:=false odom_topic:=/odom args:="-d --RGBD/NeighborLinkRefining true --Reg/Strategy 1 --Reg/Force3DoF true --Grid/RangeMin 0.2" use_sim_time:=true rgbd_sync:=true rgb_topic:=/camera/image_raw depth_topic:=/camera/depth/image_raw camera_info_topic:=/camera/camera_info qos:=2
+#   $ ros2 run topic_tools relay /rtabmap/map /map
+#
+#   Navigation (install nav2_bringup package):
+#     $ ros2 launch nav2_bringup navigation_launch.py use_sim_time:=True
+#     $ ros2 launch nav2_bringup rviz_launch.py
+#
+#   Teleop:
+#     $ ros2 run turtlebot3_teleop teleop_keyboard
+
+For use with Nab2 call the scan version with localiation:=true
+
+
+
+https://admantium.medium.com/ros-simultaneous-mapping-and-localization-with-rtabmap-e527e6a6716
+
+BOTH JOYSTICK AND NAV2: 
+
+https://www.youtube.com/watch?v=ZaiA3hWaRzE&ab_channel=ArticulatedRobotics
+
+This channel has a video on setting twist up that allows to set priority on the nav2 topic
+from example joystick and nav2
+
+
+
+########################################################
+
+
+############### TUNING MAPPING PARAMETER ###############
+This link have a lot about tuning: 
+http://wiki.ros.org/rtabmap_ros/Tutorials/Advanced%20Parameter%20Tuning
+
+1. Adding the QAK-D camera for its IMU sensor could help maybe?
+
+Here it says that VO is better with g2o.
+
+From the previous turtlebot there is also parameter to set the map directly
+https://answers.ros.org/question/343139/rtabmap-g2o-gtsam/
+
+########################################################
+~odom_tf_linear_variance (double, default: 0.001)
+When odom_frame_id is used, the first 3 values of the diagonal of the 6x6 covariance matrix are set to this value.
+~odom_tf_angular_variance (double, default: 0.001)
+When odom_frame_id is used, the last 3 values of the diagonal of the 6x6 covariance matrix are set to this value.
+
+
+There are these values, I have no idea what they do.
+
+############### IT IS ALIVE ###########################
+Terminal 1: spot_driver
+Terminal 2: localization_spot_2cams.launch.py 
+Terminal 3: navigation.launch.py
+
+From the rviz2 (navigation.launch.py) use 2d goal pose
+
+# Local Costmap should use footprint to describe robot
+# Global costmap should use robot radius.
+
+# To fix estimate pose:
+in rviz ->toolproperties->2d estimate->topic=/rtabmap/initialpose
+
+You have to do it from the rviz showing the localization vindow!
+
+########################################################

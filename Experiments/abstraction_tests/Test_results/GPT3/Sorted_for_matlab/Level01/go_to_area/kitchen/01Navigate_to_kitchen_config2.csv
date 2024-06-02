@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Head to the kitchen.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,447,464,1.43340992927551
+Make your way to the kitchen.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,449,466,0.306758165359497
+Go to the culinary space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.305104970932007
+Navigate to the kitchen area.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.307765245437622
+Move to the cooking zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,1.43377995491028
+Visit the gastronomic hub.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306058883666992
+Proceed to the pantry.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,29,447,476,0.409997463226318
+Enter the cookery space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,6.55279922485352
+Walk into the galley.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,1.33096241950989
+Journey to the food preparation area.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.309385538101196
+Take a trip to the kitchenette.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,450,479,48.9452369213104
+Step into the baking room.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Kitchen"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,36,448,484,0.410903930664063
+Travel to the stove zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.305065393447876
+Advance to the culinary station.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room""}']",FAILURE,24,448,472,0.307602643966675
+Go to the food prep zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room""}']",FAILURE,24,449,473,0.408385992050171
+Explore the culinary realm.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,447,463,1.33085155487061
+Head over to the oven space.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""kitchen""}']",FAILURE,23,449,472,0.41143798828125
+Enter the dining preparation area.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,448,467,0.30382776260376
+Make your way to the culinary workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,6.55576944351196
+Move towards the kitchen domain.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,1.4316234588623
+Journey to the meal preparation area.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.307623386383057
+Navigate to the cooking sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,48.6396856307983
+Visit the cuisine creation zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306618213653564
+Go to the cooking quarters.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.307618379592895
+Walk into the meal assembly space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Dining Room""}']",FAILURE,25,449,474,0.408724308013916
+Proceed to the food crafting area.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room""}']",FAILURE,24,449,473,0.310813426971436
+Head to the kitchen workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,448,472,1.32804656028748
+Step into the culinary atelier.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.306236982345581
+Travel to the cooking haven.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.330734014511108
+Explore the gastronomic workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,7.55374097824097
+Take a stroll to the food crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""object_found_condition"":false}']",FAILURE,23,451,474,0.306313514709473
+Go to the culinary laboratory.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306987762451172
+Enter the meal preparation sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""object_found_condition"":false}']",FAILURE,23,448,471,49.7666823863983
+Move towards the kitchen gallery.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.30675196647644
+Navigate to the cooking studio.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.307725429534912
+Head over to the food crafting studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.307611703872681
+Make your way to the culinary arena.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.306107044219971
+Walk into the cooking loft.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room"",""object_found_condition"":false}']",FAILURE,30,448,478,0.409444093704224
+Journey to the gastronomic studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.306310415267944
+Visit the food creation zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.30671238899231
+Go to the culinary space station.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,449,466,8.60161900520325
+Proceed to the cooking laboratory.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,448,472,0.306484460830688
+Enter the meal preparation studio.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""object_found_condition"":false}']",FAILURE,23,448,471,0.41316556930542
+Explore the kitchen crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,448,472,49.7634651660919
+Head to the food assembly area.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room""}']",FAILURE,24,449,473,0.409373760223389
+Move towards the culinary workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop"",""go_through_areas"":""Kitchen"",""object_found_condition"":false}']",FAILURE,30,448,478,0.409343004226685
+Navigate to the cooking oasis.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306297779083252
+Go to the gastronomic atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,450,468,0.307193756103516
+Walk into the culinary retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.30689525604248
+Journey to the meal preparation space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.30637264251709
+Take a trip to the kitchen haven.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.30720853805542
+Visit the food crafting sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,448,472,7.57782888412476
+Go to the culinary workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.306119680404663
+Proceed to the cooking domain.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.307294607162476
+Enter the meal preparation haven.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,50.6890957355499
+Explore the kitchen laboratory.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Kitchen""}', '{""object"": ""bowl""}']",FAILURE,48,447,495,0.613220930099487
+Head over to the gastronomic studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.307228803634644
+Move towards the food crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Dining Room"",""object_found_condition"":false}']",FAILURE,31,449,480,0.411467790603638
+Navigate to the culinary sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.304305553436279
+Go to the cooking workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.307796001434326
+Walk into the meal preparation studio.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,29,449,478,0.408800840377808
+Journey to the kitchen oasis.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307310819625854
+Visit the gastronomic atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,449,473,6.65578198432922
+Go to the culinary retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,1.33021593093872
+Proceed to the food crafting space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Dining Room""}']",FAILURE,25,449,474,0.408904790878296
+Enter the cooking laboratory.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,447,464,50.8931519985199
+Explore the meal preparation zone.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""kitchen""}']",FAILURE,23,448,471,0.306960105895996
+Head to the kitchen haven.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.307051181793213
+Move towards the culinary workshop.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.307090997695923
+Navigate to the food crafting studio.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,449,467,0.306707620620728
+Go to the cooking sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306285858154297
+Walk into the gastronomic atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.307459354400635
+Journey to the meal preparation haven.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,0.307409048080444
+Visit the kitchen workshop.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Kitchen"", ""go_through_areas"": ""Workshop""}', '{""object"": ""bowl""}']",FAILURE,55,447,502,6.14323329925537
+Head over to the culinary retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,449,466,2.46100759506226
+Proceed to the food crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,449,466,0.303210496902466
+Enter the cooking oasis.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,447,464,49.7671618461609
+Explore the gastronomic studio.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.30898380279541
+Go to the meal preparation sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.304909706115723
+Move towards the culinary workshop.,,['go_to_area_behavior'],"['{""goal_area"":""Workshop""}']",FAILURE,18,448,466,0.224816799163818
+Navigate to the kitchen haven.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Kitchen""}']",FAILURE,48,448,496,0.493444204330444
+Walk into the food crafting studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.305978775024414
+Journey to the cooking sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.305705070495605
+Go to the culinary retreat.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.306854724884033
+Head over to the meal preparation zone.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,5.53115892410278
+Proceed to the kitchen crafting space.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,449,466,2.35410785675049
+Enter the gastronomic studio.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,0.410239458084106
+Explore the culinary workshop.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""workshop""}']",FAILURE,23,447,470,50.7890832424164
+Go to the cooking oasis.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,448,477,0.40876579284668
+Walk into the food crafting zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,449,473,0.408833026885986
+Journey to the meal preparation studio.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,450,467,0.306876659393311
+Navigate to the kitchen haven.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,0.30708122253418
+Visit the gastronomic atelier.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Workshop""}']",FAILURE,24,449,473,0.409632682800293
+Head over to the culinary retreat.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307667016983032
+Move towards the cooking workshop.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,448,497,0.614502668380737
+Go to the food crafting sanctuary.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen"",""go_through_areas"":""Living Room""}']",FAILURE,24,449,473,4.40151524543762
+Enter the meal preparation zone.,,['go_to_area_behavior'],"['{""goal_area"":""Kitchen""}']",SUCCESS,17,448,465,3.37956714630127
+Explore the kitchen laboratory.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Kitchen""}', '{""object"": ""bowl"", ""current_location_condition"": ""kitchen""}']",FAILURE,55,447,502,0.818466186523438
+Walk into the culinary oasis.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,49.9716560840607
+Journey to the gastronomic studio.,,['go_to_area_behavior'],"['{""goal_area"":""kitchen""}']",SUCCESS,18,450,468,0.306699275970459

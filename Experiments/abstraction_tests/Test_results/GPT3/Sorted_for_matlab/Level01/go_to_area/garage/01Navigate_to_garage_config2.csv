@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you navigate to the workshop?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Workshop""}']",FAILURE,49,449,498,0.612008333206177
+Please head towards the car shelter.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.613053321838379
+I need to go to the storage area.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,451,469,7.68163371086121
+Take me to the vehicle space.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,0.613369226455689
+Let's move to the parking spot.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,47.6157112121582
+Guide me to the place where the car is kept.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,453,471,0.306739568710327
+I want to go to the place with the cars.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,453,471,0.307751178741455
+Navigate to where the automobile is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,1.33008480072021
+Direct me to the area with the vehicles.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,451,469,0.306754589080811
+Move to the place where we park.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,0.409466981887817
+Can you lead me to the place with the vehicles?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.614065647125244
+I need to go to the spot where the cars are.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.307630300521851
+Take me to where the automobiles are kept.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,0.614358186721802
+Guide me to the area with the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,451,469,8.70300054550171
+Please navigate to the carport.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,0.613967657089233
+Let's go to the vehicle area.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,48.3328533172607
+I want to go to the car parking area.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.307103395462036
+Move to the spot where we park our vehicle.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.306495189666748
+Can you lead me to the automobile area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,0.716907262802124
+I need to go to the space where the car is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306192398071289
+Take me to the space where the vehicles are.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,452,501,0.615752220153809
+Navigate to the area with the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,0.308178186416626
+Guide me to the garage.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,448,497,0.611912250518799
+Please head to where the car is kept.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,451,469,0.307155847549438
+Let's move to the spot where the cars are stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,8.70406126976013
+I want to go to the car storage area.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.306242942810059
+Move to the place where we store the vehicle.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,49.123060464859
+Can you lead me to the vehicle storage?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,0.844943761825562
+I need to go to the area where the car is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage"",""go_through_areas"":""Home""}']",FAILURE,24,455,479,0.400166511535645
+Take me to the spot where the vehicles are stored.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.879231929779053
+Navigate to the place with the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,0.509337663650513
+Guide me to the car garage.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,0.636482715606689
+Please head towards the auto shelter.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.743610858917236
+Let's move to the place where we keep the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.313397645950317
+I want to go to the place where the car is housed.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.374837398529053
+Move to the area where we store the vehicle.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,7.47823166847229
+Can you lead me to the car shed?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,0.688608884811401
+I need to go to the spot where the vehicles are parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,47.983099937439
+Take me to the place where the car is housed.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.614369869232178
+Navigate to the place with the vehicle.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,0.30804967880249
+Guide me to the place where the car is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,453,471,0.305306196212769
+Please head towards the auto storage.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,1.63850116729736
+Let's move to the location where the car is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.306615352630615
+I want to go to the spot where we keep the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306755065917969
+Move to the area where the vehicles are kept.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.30665397644043
+Can you lead me to the automobile garage?,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,451,500,0.512340307235718
+I need to go to the place where the car is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,7.78191113471985
+Take me to the place where we store our vehicle.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.716315269470215
+Navigate to the area with the automobile.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,47.7195816040039
+Guide me to the car shelter.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,449,498,0.6144859790802
+Please head towards the vehicle shelter.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,449,467,0.408121585845947
+Let's move to the spot where we park the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.409702301025391
+I want to go to the area where the vehicles are housed.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,1.33115839958191
+Move to the space where we store our car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.306735992431641
+Can you lead me to the auto storage area?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,452,501,0.613899707794189
+I need to go to the place where the vehicle is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306981086730957
+Take me to the area where the cars are housed.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.512468338012695
+Navigate to the place with the automobile.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,450,499,7.98680257797241
+Guide me to the spot where the car is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,453,471,0.306397438049316
+Please head towards the vehicle parking area.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,450,468,47.7181000709534
+Let's move to the spot where the automobile is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.511651277542114
+I want to go to the location where we keep the car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306918621063232
+Move to the area where we store the vehicles.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.40960955619812
+Can you lead me to the auto garage?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,1.63932824134827
+I need to go to the spot where the car is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306403398513794
+Take me to the spot where we park our automobile.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,0.510628461837769
+Navigate to the place where the vehicles are parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.306508302688599
+Guide me to the garage.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,0.512350797653198
+Please head towards the car storage area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,450,499,8.08996987342835
+Let's move to the area where the cars are parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,454,472,0.408994674682617
+I want to go to the spot where the vehicle is kept.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,47.7177107334137
+Move to the place where we keep the automobile.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.307207822799683
+Can you lead me to the vehicle parking spot?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,452,501,0.511760711669922
+I need to go to the area where the cars are stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,455,473,0.306679487228394
+Take me to the area where we park our cars.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,1.63907766342163
+Navigate to the spot where the vehicle is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",SUCCESS,18,452,470,0.306722164154053
+Guide me to the car parking area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,450,499,0.511345624923706
+Please head towards the place where the car is kept.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Garage""}', '{""object"": ""bowl""}']",FAILURE,49,453,502,0.51271653175354
+Let's move to the location where the vehicles are parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,454,472,0.305316686630249
+I want to go to the place where we keep our car.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,455,473,7.57779335975647
+Move to the area where the automobile is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,452,470,0.409656286239624
+Can you lead me to the vehicle shelter?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,48.845752954483
+I need to go to the spot where the car is housed.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,455,473,0.408734798431397
+Take me to the place where the vehicle is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,453,471,0.306766033172607
+Navigate to the spot where we store our cars.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,452,470,0.309149980545044
+Guide me to the automobile shelter.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,449,467,0.304824829101562
+Please head towards the garage.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,448,497,1.53615164756775
+Let's move to the area where the car is housed.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,454,472,0.306278467178345
+I want to go to the place where the vehicle is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,455,473,0.307172060012817
+Move to the spot where we store our vehicles.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,452,470,0.305823802947998
+Can you lead me to the carport?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,451,500,8.0902099609375
+I need to go to the area where the automobile is kept.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,455,473,0.2576744556427
+Take me to the area where we park our vehicles.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,453,502,48.965131521225
+Navigate to the spot where the car is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,452,470,0.338559150695801
+Guide me to the parking area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,449,498,0.614821195602417
+Please head towards the vehicle storage.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.30617356300354
+Let's move to the location where the car is stored.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,454,472,0.306570529937744
+I want to go to the spot where the automobile is parked.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,455,473,0.307931184768677
+Move to the area where we keep our vehicles.,,['go_to_area_behavior'],"['{""goal_area"":""Garage""}']",FAILURE,18,452,470,0.305833339691162
+Can you lead me to the car parking spot?,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Garage""}']",FAILURE,49,452,501,0.511863708496094

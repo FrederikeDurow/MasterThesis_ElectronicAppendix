@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Search for a teddy bear if you're in the garden.,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""garden""}']",SUCCESS,24,731,755,2.59767937660217
+Find a laptop if you're in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,728,750,41.7795379161835
+Head to the bedroom if you can see a cup.,,['go_to_area'],"['{""goal_area"":""bed room"",""object_found_condition"":true,""current_location_condition"":""bed room""}']",FAILURE,30,729,759,3.17292475700378
+Go to the bedroom and if you reach it look for a dog.,,['go_to_area'],"['{""goal_area"":""bed room""}']",FAILURE,17,732,749,2.76496720314026
+Locate a cup if you successfully can navigate to the bedroom.,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""bed room""}']",FAILURE,22,731,753,2.25191783905029
+Search for a bowl if you are in the dining room.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""dining room""}']",SUCCESS,24,730,754,0.817357778549194
+Find a refrigerator if you are in kitchen.,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""kitchen""}']",SUCCESS,24,727,751,0.818789720535278
+Look for a teddy bear if you are in the garden.,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""garden""}']",SUCCESS,24,731,755,0.718672752380371
+Locate a laptop. If you find it,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",ERROR,22,727,749,2.76271224021912
+Find a cup if you are in the bedroom.,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""bed room""}']",SUCCESS,22,728,750,2.69425845146179
+Look for a bowl if you are in the dining room.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""dining room""}']",SUCCESS,24,730,754,4.06151962280273
+If you can find a refrigerator go to the kitchen after.,,['locate_object'],"['{""object"":""refrigerator"",""object_found_condition"":true}']",FAILURE,23,730,753,39.9380719661713
+Find the refrigerator if you can see a bottle.,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true}']",FAILURE,22,728,750,3.68914675712585
+Find a teddy bear if in the garage.,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""garage""}']",SUCCESS,24,728,752,2.55841565132141
+Head to the garden if you can see a dog.,,['go_to_area'],"['{""goal_area"":""garden"",""object_found_condition"":true}']",FAILURE,23,729,752,0.610490560531616
+Locate a person. If you see it,,['locate_object'],"['{""object"":""person"",""object_found_condition"":true}']",ERROR,21,727,748,3.78860402107239
+Find a banana if you are in the workshop.,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""workshop""}']",SUCCESS,22,728,750,0.516298532485962
+Go to the office if you are able to locate a laptop.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,731,753,0.507041931152344
+Search for a bowl if you can see a cat.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false}']",FAILURE,22,729,751,2.66290998458862
+If you can see a cup,,['locate_object'],"['{""object"":""cup""}']",SUCCESS,15,724,739,2.45914959907532
+Make sure you find a person if you are in the living room.,,['locate_object'],"['{""object"":""person"",""current_location_condition"":""living room""}']",SUCCESS,22,732,754,3.47280335426331
+Head to the bedroom if you can find a person.,,['go_to_area'],"['{""goal_area"":""bed room"",""object_found_condition"":true,""current_location_condition"":""living room""}']",FAILURE,30,729,759,41.3947765827179
+Search for a bottle if you can see the refrigerator.,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":false,""current_location_condition"":""kitchen""}']",FAILURE,29,729,758,2.47522711753845
+Go to the garden if you can see a dog.,,['go_to_area'],"['{""goal_area"":""garden"",""object_found_condition"":true}']",FAILURE,23,729,752,2.62487363815308
+Search for an apple. If you ee it,,['locate_object'],"['{""object"":""apple""}']",FAILURE,15,727,742,1.64065313339233
+Locate the laptop if you can go to the office successfully.,,['go_to_area'],"['{""goal_area"":""office""}']",FAILURE,16,731,747,1.73706793785095
+Search for an apple if you can find a bowl.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true}']",FAILURE,22,729,751,1.74206805229187
+Find a cup. If it is not here,,['locate_object'],"['{""object"":""cup""}']",FAILURE,15,727,742,0.513023853302002
+Go to the garden. If you arrive,,['go_to_area'],"['{""goal_area"":""garden""}']",FAILURE,17,726,743,2.56170201301575
+Search for a bottle after if you cannot find the refrigerator.,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":false}']",FAILURE,22,730,752,3.6815299987793
+Search for a bottle if you successfully can locat the refrigerator.,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,29,731,760,2.86657071113586
+Proceed to the office. If arriving,,['go_to_area'],"['{""goal_area"":""office""}']",FAILURE,16,725,741,40.7585952281952
+Look for a bowl. In case it is not there,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,729,745,2.45034027099609
+Head to the kitchen if you can see a cup.,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""kitchen""}']",FAILURE,28,729,757,2.56348872184753
+Ensure you find a person. If you do,,['locate_object'],"['{""object"":""person"",""object_found_condition"":true}']",FAILURE,21,727,748,0.41251802444458
+Proceed to the bedroom if you cannot find a person.,,['go_to_area'],"['{""goal_area"":""bed room"",""object_found_condition"":false}']",FAILURE,23,729,752,2.45590257644653
+Find a bottle. If it is there,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,726,742,2.35529780387878
+Try to find a dog,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,723,738,0.410008192062378
+Search for an apple if you found a bowl.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":false}']",FAILURE,21,728,749,2.45316767692566
+Go to the office if you can locate the laptop.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true,""current_location_condition"":""office""}']",FAILURE,28,729,757,2.46093153953552
+Find a cup if you are in the kitchen.,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""kitchen""}']",SUCCESS,22,728,750,3.58395552635193
+Search for a bowl if you are in the dining room.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""dining room""}']",SUCCESS,24,730,754,41.9839987754822
+Go to the workshop if you find a banana.,,['go_to_area'],"['{""goal_area"":""workshop""}']",FAILURE,17,728,745,1.53489661216736
+Look for a person. Only enter the living room if you find the person.,,['locate_object'],"['{""object"":""person"",""object_found_condition"":true}']",FAILURE,21,734,755,2.45042300224304
+Head to the bedroom if you can find a cup.,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""bed room""}']",FAILURE,28,729,757,1.84791779518127
+Locate a bottle if you are in the garage.,,['locate_object'],"['{""object"":""bottle"",""current_location_condition"":""garage""}']",SUCCESS,23,729,752,1.64584946632385
+Find a laptop if in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,726,748,3.26374912261963
+Search for a banana if you are in the workshop.,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""workshop""}']",SUCCESS,22,729,751,1.90751338005066
+Find a banana if in the kitchen.,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""kitchen""}']",SUCCESS,22,726,748,0.857999563217163
+Look for a dog once you have successfully reached the garden.,,['go_to_area'],"['{""goal_area"":""garden""}']",FAILURE,17,730,747,1.53735709190369
+Go to the living room if you can locate a cup.,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true,""current_location_condition"":""living room""}']",FAILURE,28,730,758,3.78608012199402
+Search for a person if you are in the dining room.,,['locate_object'],"['{""object"":""person"",""current_location_condition"":""dining room""}']",SUCCESS,23,730,753,42.2886302471161
+Find a laptop if you are in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,728,750,0.632391214370728
+Look for a teddy bear if in the bedroom.,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""bed room""}']",SUCCESS,24,729,753,2.74998784065247
+Search for a refrigerator if you are located in the kitchen.,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""kitchen""}']",SUCCESS,24,730,754,1.73887276649475
+Head to the workshop if you can locate an apple.,,['locate_object'],"['{""object"":""apple""}']",FAILURE,15,729,744,1.53159403800964
+Look for a person if currently located in the living room.,,['locate_object'],"['{""object"":""person"",""current_location_condition"":""living room""}']",SUCCESS,22,730,752,2.45850014686584
+Search for a cup if you are standing in the kitchen.,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""kitchen""}']",SUCCESS,22,730,752,1.57920956611633
+Find a bottle once if you are placed in the garage.,,['locate_object'],"['{""object"":""bottle"",""object_found_condition"":true,""current_location_condition"":""garage""}']",FAILURE,29,730,759,1.80286264419556
+Go to the dining room if you are able to locate a bowl.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""dining room""}']",FAILURE,30,732,762,1.83722567558289
+Search for a laptop in case you are in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,730,752,4.09778356552124
+Head to the bedroom if you can see a teddy bear.,,['go_to_area'],"['{""goal_area"":""bed room""}']",FAILURE,17,731,748,41.7777700424194
+Find a refrigerator if you are in the kitchen.,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""kitchen""}']",SUCCESS,24,728,752,0.636737585067749
+If you can see an apple go to the workshop.,,['locate_object'],"['{""object"":""apple"",""object_found_condition"":true}']",SUCCESS,21,729,750,2.53495383262634
+If you can go to the living room successfully,,['go_to_area'],"['{""goal_area"":""living room""}']",FAILURE,17,727,744,2.50467467308044
+Search for a bottle once you've reached the garage successfully.,,['go_to_area'],"['{""goal_area"":""garage""}']",FAILURE,17,730,747,1.38479447364807
+Head to the dining room after trying to locate a bowl,,"['go_to_area', 'locate_object']","['{""goal_area"": ""dining room""}', '{""object"": ""bowl""}']",FAILURE,49,729,778,2.86761856079102
+Find a laptop if you are in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,728,750,2.24890422821045
+Go to the living room if you can see a person.,,['go_to_area'],"['{""goal_area"":""living room"",""object_found_condition"":true}']",FAILURE,23,730,753,0.923206329345703
+Look for a cup in case you are in the kitchen.,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""kitchen""}']",SUCCESS,22,730,752,1.64040875434876
+Can you please look for a cup and if you find it,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":true}']",FAILURE,21,730,751,3.89026832580566
+Can you try to check if there is a bottle around and if yes,,['locate_object'],"['{""object"":""bottle""}']",FAILURE,16,732,748,41.8896780014038
+Go to the dining room if yuo can locate a bowl.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""dining room""}']",FAILURE,30,731,761,0.809587001800537
+Search for a banana if you are in the office.,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""office""}']",FAILURE,21,729,750,2.86817526817322
+Look for a teddy bear after if currently in the bedroom.,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""bed room""}']",FAILURE,24,731,755,2.60748553276062
+Find a refrigerator once you've reached the kitchen. If you don't make it to the kitchen,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,737,754,0.450782775878906
+Search for an apple if in the kitchen.,,['locate_object'],"['{""object"":""apple"",""current_location_condition"":""kitchen""}']",SUCCESS,22,727,749,2.97970747947693
+Go to the living room and if you make it there contunue to the kitchen.,,['go_to_area'],"['{""goal_area"":""living room"",""go_through_areas"":""kitchen""}']",SUCCESS,24,736,760,2.76437544822693
+Look for a cup if you can not find a bottle. ,,['locate_object'],"['{""object"":""cup"",""object_found_condition"":false}']",FAILURE,21,731,752,0.615107536315918
+Can you find a banana for me? But only if you already are in the kitchen. ,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""kitchen""}']",SUCCESS,22,737,759,1.73743319511414
+Please head to the kitchen after you get to the office successfully.,,['go_to_area'],"['{""goal_area"":""kitchen"",""go_through_areas"":""office""}']",FAILURE,23,731,754,4.09536838531494
+Can you look for a banana,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,724,739,41.9810969829559
+I would appreciate it if you could look for a laptop if yuo are in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,737,759,0.701649904251099
+Before heading to the kitchen,,['go_to_area'],"['{""goal_area"":""kitchen""}']",FAILURE,17,723,740,2.57669496536255
+Can you check for a teddy-bear if you are in the bedroom? ,,['locate_object'],"['{""object"":""teddy bear"",""current_location_condition"":""bed room""}']",SUCCESS,24,735,759,2.86837267875671
+If you are not busy at the moment,I'm here and ready to assist you! How can I help you today?,[],[],CLARIFICATION,17,726,743,0.405708074569702
+I need you to find a bottle in case you are in the garage. ,,['locate_object'],"['{""object"":""bottle"",""current_location_condition"":""garage""}']",SUCCESS,23,734,757,2.55697512626648
+Go and look for a bowl,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,724,740,2.40399122238159
+Please search for a cup if in the living room. ,,['locate_object'],"['{""object"":""cup"",""current_location_condition"":""living room""}']",SUCCESS,22,730,752,1.59303140640259
+Once you've time,Absolutely! I'm here whenever you need assistance. Just let me know how I can help!,[],[],CLARIFICATION,20,722,742,1.42763233184814
+Before anything else,"Yes, how can I assist you?",[],[],CLARIFICATION,9,721,730,3.37782526016235
+Find a cat if in the bedroom.,,['locate_object'],"['{""object"":""cat"",""current_location_condition"":""bed room""}']",SUCCESS,22,726,748,42.8083305358887
+Check if there is a dog. If yes,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,727,748,0.50886344909668
+See if there's a refrigerator if you are in the garage.,,['locate_object'],"['{""object"":""refrigerator"",""current_location_condition"":""garage""}']",SUCCESS,24,731,755,2.55965900421143
+Locate a banana in the kitchen. ,,['locate_object'],"['{""object"":""banana"",""current_location_condition"":""kitchen""}']",SUCCESS,22,727,749,2.54826378822327
+Find a bottle if you are in the dining room.,,['locate_object'],"['{""object"":""bottle"",""current_location_condition"":""dining room""}']",SUCCESS,24,729,753,0.528188228607178
+Start searching for a laptop if you are in the office.,,['locate_object'],"['{""object"":""laptop"",""current_location_condition"":""office""}']",SUCCESS,22,730,752,2.65741062164307
+If you can find a teddy-bear,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,727,744,2.45416831970215
+First,Hello! How can I assist you today?,[],[],CLARIFICATION,10,719,729,1.32838869094849
+Go and see if there's a cat,,['locate_object'],"['{""object"":""cat""}']",FAILURE,15,726,741,2.37489461898804

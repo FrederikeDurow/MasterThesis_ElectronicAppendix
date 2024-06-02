@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,47.6209626197815
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,0.730253219604492
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.318956851959229
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""home"", ""object_found_condition"": true}']",FAILURE,61,310,371,0.828281402587891
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.312507152557373
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.314551591873169
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,310,325,0.313567161560059
+Please look for a animal.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,7.41469097137451
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.207661151885986
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":true}']",FAILURE,22,311,333,1.3575975894928
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.312907218933105
+Please look for a fruit.,,['locate_object'],"['{""object"":""fruit"",""object_found_condition"":true}']",FAILURE,21,310,331,0.312590360641479
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,48.4684934616089
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,310,333,0.518332958221436
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":true}']",FAILURE,22,311,333,0.417015314102173
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.418105363845825
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,310,325,0.31453800201416
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.311090469360352
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.314357280731201
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":true}']",FAILURE,22,311,333,7.51842308044434
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.313146591186523
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,1.88080620765686
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.416374921798706
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,310,333,0.521793365478516
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,47.6401245594025
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.302982568740845
+Please look for a fruit.,,['locate_object'],"['{""object"":""fruit"",""object_found_condition"":true}']",FAILURE,21,310,331,0.311406373977661
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.417546272277832
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.315798044204712
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.41492486000061
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.315732955932617
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana""}', '{""object"": ""apple""}']",FAILURE,45,310,355,7.83074855804443
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.313139915466309
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,1.35765624046326
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.626193046569824
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.417082071304321
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,47.8298218250275
+Please look for a animal.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,0.344859600067139
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""bed room""}']",FAILURE,56,310,366,0.812599658966064
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.317631959915161
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.311918973922729
+Please look for a fruit.,,['locate_object'],"['{""object"":""fruit"",""object_found_condition"":true}']",FAILURE,21,310,331,0.412314414978027
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.328406095504761
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""living room""}']",FAILURE,56,310,366,7.81822085380554
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.313427448272705
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,1.46153044700623
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana"",""object_found_condition"":true}']",FAILURE,21,310,331,0.41753625869751
+Please look for a animal.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,0.313075065612793
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear""}', '{""goal_area"": ""home""}']",FAILURE,49,310,359,47.9459431171417
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship""}']",FAILURE,16,311,327,0.312214374542236
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.414086818695068
+Please look for a fruit.,,['locate_object'],"['{""object"":""apple""}']",FAILURE,15,310,325,0.363989353179932
+Please look for a animal.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,0.367942094802856
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.313194751739502
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.419493913650513
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,7.41199493408203
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,310,325,0.312536478042603
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,2.61663246154785
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.309496402740479
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,0.417576551437378
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,47.6277043819428
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,0.730398893356323
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.315324783325195
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""bed room""}']",FAILURE,56,310,366,0.938055515289307
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship""}']",FAILURE,16,311,327,0.311819553375244
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.417139291763306
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,310,325,0.313272476196289
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,6.37098503112793
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,310,333,0.416935443878174
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship""}']",FAILURE,16,311,327,2.40188646316528
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.314267873764038
+Please look for a fruit.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,310,325,0.315765857696533
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,47.4328241348267
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.412149667739868
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,1.45159769058228
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop""}']",FAILURE,16,310,326,0.520689249038696
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,0.628304719924927
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.625954389572144
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear"",""object_found_condition"":true}']",FAILURE,23,310,333,0.419842004776001
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false}']",FAILURE,22,311,333,5.53246593475342
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,1.46361994743347
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana""}', '{""object"": ""apple""}']",FAILURE,45,310,355,1.78853559494019
+Please look for a animal.,,"['locate_object', 'locate_object']","['{""object"": ""dog"", ""object_found_condition"": true}', '{""object"": ""cat"", ""object_found_condition"": true}']",FAILURE,57,310,367,0.820430040359497
+Please look for a toy.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""teddy bear"", ""object_found_condition"": true}', '{""goal_area"": ""bed room""}']",FAILURE,56,310,366,0.836627244949341
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":true}']",FAILURE,22,311,333,46.5838558673859
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.415984153747559
+Please look for a fruit.,,"['locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,57,310,367,1.04562401771545
+Please look for a animal.,,['locate_object'],"['{""object"":""dog""}']",FAILURE,15,310,325,0.312764406204224
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.312085151672363
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship""}']",FAILURE,16,311,327,0.319432020187378
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,1.45603513717651
+Please look for a fruit.,,"['locate_object', 'locate_object', 'locate_object']","['{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}', '{""object"": ""bowl"", ""object_found_condition"": true}']",FAILURE,79,310,389,5.84829354286194
+Please look for a animal.,,"['locate_object', 'locate_object']","['{""object"": ""dog"", ""object_found_condition"": true}', '{""object"": ""cat"", ""object_found_condition"": true}']",FAILURE,57,310,367,0.626697301864624
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,1.36048603057861
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":false,""current_location_condition"":""home""}']",FAILURE,28,311,339,1.56339526176453
+Please look for a computer.,,['locate_object'],"['{""object"":""laptop"",""object_found_condition"":true}']",FAILURE,22,310,332,0.312696218490601
+Please look for a fruit.,,['locate_object'],"['{""object"":""fruit"",""object_found_condition"":true}']",FAILURE,21,310,331,47.9430539608002
+Please look for a animal.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,0.420649528503418
+Please look for a toy.,,['locate_object'],"['{""object"":""teddy bear""}']",FAILURE,17,310,327,0.310258865356445
+Please look for a spaceship.    ,,['locate_object'],"['{""object"":""spaceship"",""object_found_condition"":true}']",FAILURE,22,311,333,0.417300462722778

@@ -1,0 +1,131 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.5951828956604004
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.631303071975708
+Please look for a dog. ,"I will start looking for a dog.
+
+call function locate_object(object:dog)",[],[],CLARIFICATION,17,1029,1046,0.7162051200866699
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7174587249755859
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7162928581237793
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6075146198272705
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7236223220825195
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6213736534118652
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7101237773895264
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,1.0240097045898438
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6763067245483398
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7558412551879883
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.615145206451416
+Please look for a dog. ,"I will start looking for a dog. 
+
+call function locate_object(object:dog)",['locate_object'],"['{""object"":""dog""}']",CLARIFICATION,33,1029,1062,1.0241787433624268
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7152860164642334
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7167596817016602
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.705066442489624
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.9326801300048828
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.924140453338623
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6115257740020752
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7166812419891357
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6011261940002441
+Please look for a dog. ,"I'll start looking for a dog. 
+
+call function locate_object(object:dog)",[],[],CLARIFICATION,17,1029,1046,0.7303991317749023
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7153589725494385
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7187602519989014
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7160675525665283
+Please look for a dog. ,"I can assist with that. I'll start looking for a dog.
+
+call tool locate_object(object:dog)",[],[],CLARIFICATION,22,1029,1051,0.817737340927124
+Please look for a dog. ,"I'll start looking for a dog.
+
+call tool functions.locate_object(object:dog)
+I've completed the task of looking for a dog. How can I assist you further?",[],[],CLARIFICATION,36,1029,1065,1.0248258113861084
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7168781757354736
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6704638004302979
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6652765274047852
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7109808921813965
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7174086570739746
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6140849590301514
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6151614189147949
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7151391506195068
+Please look for a dog. ,"I will start looking for a dog at the current location.
+
+call function locate_object(object:dog).",[],[],CLARIFICATION,21,1029,1050,0.7167496681213379
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.8183412551879883
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.8251485824584961
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7122840881347656
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7160172462463379
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7153000831604004
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7167952060699463
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6544883251190186
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6763908863067627
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7191030979156494
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7139415740966797
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7220854759216309
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6080098152160645
+Please look for a dog. ,"I will start looking for a dog at the current location.
+
+call functions.locate_object({object: ""dog""})",[],[],CLARIFICATION,24,1029,1053,0.8194921016693115
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6143784523010254
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7161662578582764
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7165756225585938
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7169399261474609
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6142063140869141
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7163643836975098
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7164371013641357
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.615687370300293
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.5853044986724854
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6453597545623779
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7134277820587158
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6795673370361328
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6573784351348877
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.8143119812011719
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6427369117736816
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.5855576992034912
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6630914211273193
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6663641929626465
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,1.0257720947265625
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7147808074951172
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.5951626300811768
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6331934928894043
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7179980278015137
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7667887210845947
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6652374267578125
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7186439037322998
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.614159107208252
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6122474670410156
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7166142463684082
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6163504123687744
+Please look for a dog. ,"I will start looking for a dog at the current location.
+
+call function locate_object(object:dog)",[],[],CLARIFICATION,21,1029,1050,0.8211605548858643
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.714447021484375
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7153353691101074
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7157504558563232
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.719559907913208
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7139294147491455
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7166428565979004
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7167210578918457
+Please look for a dog. ,"Calling the function to locate a dog.
+
+```json
+{
+  ""recipient_name"": ""functions.locate_object"",
+  ""parameters"": {
+    ""object"": ""dog""
+  }
+}
+```",[],[],CLARIFICATION,40,1029,1069,1.025268793106079
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7149674892425537
+Please look for a dog. ,"Sure, I'll start looking for a dog.
+
+call function locate_object(object:dog)",[],[],CLARIFICATION,18,1029,1047,0.7165613174438477
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7189784049987793
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7147731781005859
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6143219470977783
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.7170112133026123
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.6146163940429688
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.614999532699585
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.8191609382629395
+Please look for a dog. ,"I will start looking for a dog.
+
+call function locate_object(object:dog)",[],[],CLARIFICATION,17,1029,1046,0.919224739074707
+Please look for a dog. ,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,1029,1044,0.8412861824035645

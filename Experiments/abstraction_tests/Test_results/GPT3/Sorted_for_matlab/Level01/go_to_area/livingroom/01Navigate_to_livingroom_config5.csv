@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please navigate to the lounge.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1084,1101,0.297949314117432
+Can you take me to the sitting area?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.305903673171997
+I'd like to go to the den.,,['go_to_area'],"['{""goal_area"":""den""}']",FAILURE,16,1087,1103,0.30692982673645
+Let's head to the family room.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.307070255279541
+Take me to the TV room,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1084,1101,0.409244775772095
+Navigate to the main sitting space.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,57.856644153595
+I need to go to the cozy area.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.408967733383179
+Move to the relaxation zone.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1084,1101,0.309617280960083
+Guide me to the entertainment room.,,['go_to_area'],"['{""goal_area"":""entertainment room""}']",FAILURE,18,1085,1103,0.407030820846558
+Direct me to the lounge area.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.306809186935425
+I want to be in the space with the sofa.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.30644702911377
+Lead me to the comfortable seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.307384490966797
+Transport me to the hangout spot.,,"['go_to_area', 'go_to_area']","['{""goal_area"": ""living room""}', '{""goal_area"": ""garden""}']",FAILURE,49,1086,1135,0.819108009338379
+To the place with the TV,,"['go_to_area', 'locate_object']","['{""goal_area"": ""living room""}', '{""object"": ""TV""}']",FAILURE,47,1084,1131,57.8563182353973
+Can you go to the room with the couch?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307390928268433
+Move to where the entertainment system is.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.409156084060669
+I'd like to go to the family gathering spot.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.306172132492065
+Navigate to where the cozy chairs are.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.307774782180786
+To the area with the coffee table,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.307488679885864
+Take me to the spot with the armchairs.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.306761980056763
+Move to the common area,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1083,1100,0.305858135223389
+Guide me to the informal sitting space.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,58.7782504558563
+Transport me to the relaxation corner.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.409443378448486
+To the zone with the fireplace,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1084,1101,0.410339117050171
+I need to be in the TV watching spot.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.407448053359985
+Can you go to where the conversation area is?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307652235031128
+I'd like to go to the room with the big screen.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,0.306906461715698
+Take me to the socializing space.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.511494874954224
+Navigate to the space with the lounge chairs.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.306990146636963
+Move to the informal gathering area.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,57.7552626132965
+I want to be in the hangout section.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.408155202865601
+Lead me to where the conversations happen.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.309479475021362
+Transport me to the room with the entertainment setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.304081678390503
+To the area with the bean bags,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.307237863540649
+Can you go to the room with the media center?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.307915687561035
+I'd like to go to the place with the comfy seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,0.716103315353394
+Take me to the spot with the sectional sofa.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.408743381500244
+Guide me to the TV viewing area.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,57.7541999816895
+Navigate to where the relaxation happens.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.409631252288818
+Move to the space with the recliners.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.306425333023071
+I want to be in the room with the big screen TV.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,0.306631803512573
+Lead me to the area with the cozy ambiance.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307498455047607
+Transport me to the place with the home theater.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306802272796631
+To the zone with the lounge furniture,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.309207677841187
+Can you go to the living space?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.304705858230591
+I'd like to go to the area with the entertainment setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,58.6773283481598
+Take me to the room with the comfortable seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.305129766464233
+Guide me to the place with the movie night setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.409725427627564
+Navigate to where the family gathers.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.306268930435181
+Move to the space with the home cinema.,,['go_to_area'],"['{""goal_area"":""home""}']",FAILURE,16,1087,1103,0.307061910629272
+I want to be in the room with the entertainment center.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1090,1107,0.307116270065308
+Lead me to the area with the plush seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306326866149902
+Transport me to the spot with the home entertainment.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307490825653076
+To the zone with the cozy sofas,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,58.7780394554138
+Can you go to where the relaxation area is?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.409328460693359
+I'd like to go to the room with the comfy chairs.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,0.306648969650269
+Take me to the area with the TV lounge.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.3079833984375
+Guide me to where the socializing happens.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.306049823760986
+Navigate to the space with the home theater setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307737350463867
+Move to the spot with the cozy nook.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.305945158004761
+I want to be in the room with the entertainment hub.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1090,1107,0.307706117630005
+Lead me to the area with the cozy corner.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,58.7774271965027
+Transport me to where the movie nights happen.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.221850872039795
+To the zone with the relaxation furniture,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.391825914382935
+Can you go to the room with the entertainment system?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.307459831237793
+I'd like to go to the area with the comfortable couches.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1092,1109,0.307596445083618
+Take me to where the gatherings occur.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.308267116546631
+Guide me to the space with the home cinema setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.30417275428772
+Navigate to the spot with the comfy lounge.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.307425737380981
+Move to the area with the family gathering space.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,58.7781929969788
+I want to be in the room with the entertainment setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1090,1107,0.307368516921997
+Lead me to the zone with the cozy seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306593656539917
+Transport me to where the movie marathons happen.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.306292295455933
+To the area with the relaxation setup,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.409430265426636
+Can you go to the living area?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1086,1103,0.307185173034668
+I'd like to go to the space with the big screen TV.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1092,1109,0.308235168457031
+Take me to the room with the comfy sofas.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.407843828201294
+Guide me to where the movie nights take place.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,58.7786605358124
+Navigate to the spot with the home entertainment system.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306349039077759
+Move to the area with the family room setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.409863948822022
+I want to be in the room with the entertainment console.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1090,1107,0.306555509567261
+Lead me to the zone with the cozy atmosphere.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306874990463257
+Transport me to where the movie screenings happen.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.30694317817688
+To the area with the relaxation zone,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,0.306782960891724
+Can you go to the room with the cinema setup?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.307846069335937
+I'd like to go to the space with the comfy recliners.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1092,1109,58.7772369384766
+Take me to where the family relaxes.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.306633472442627
+Guide me to the spot with the home cinema system.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.307351589202881
+Navigate to the area with the cozy living space.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.307730674743652
+Move to the room with the entertainment area.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.306019067764282
+I want to be in the zone with the cozy environment.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1090,1107,0.306752443313599
+Lead me to where the movie nights are held.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.30691933631897
+Transport me to the spot with the home theater.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.306839227676392
+To the area with the relaxation corner,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1085,1102,58.6761150360107
+Can you go to the room with the big TV?,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.306901454925537
+I'd like to go to the space with the comfortable seating.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1091,1108,0.307118892669678
+Take me to where the family hangs out.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.408366441726685
+Guide me to the spot with the home theater setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1089,1106,0.314579248428345
+Navigate to the area with the cozy seating arrangement.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1088,1105,0.300206422805786
+Move to the room with the entertainment setup.,,['go_to_area'],"['{""goal_area"":""living room""}']",SUCCESS,17,1087,1104,0.310582160949707

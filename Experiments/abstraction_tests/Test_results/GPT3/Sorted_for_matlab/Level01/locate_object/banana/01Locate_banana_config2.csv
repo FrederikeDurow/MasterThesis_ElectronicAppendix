@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you find me a ripe yellow fruit?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,52,451,503,0.613266468048096
+I'm craving something sweet and yellow,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.306434869766235
+I need assistance in finding a potassium-rich snack.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,452,468,0.306679010391235
+Do you see something curved and yellow in the vicinity?,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":false}']",FAILURE,22,453,475,0.307390928268433
+Could you search for a fruit often found in lunchboxes?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.575738430023193
+Help me locate a fruit commonly paired with breakfast cereal.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.549852132797241
+Is there a tropical fruit nearby that you can find for me?,,"['locate_object', 'locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,73,455,528,3.99394273757935
+Locate a long,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,446,462,3.37828397750854
+Can you find me something that monkeys love to eat?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.716876268386841
+I'm in the mood for a fruit with a peel that you have to remove.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,459,475,49.8683042526245
+Look for a fruit that's often used in smoothies and desserts.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,456,472,0.308229684829712
+Please locate a fruit that's curved and yellow when ripe.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,52,454,506,0.510828971862793
+Do you see a fruit that's commonly used in banana bread?,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,0.307064771652222
+Find me a fruit that's often included in fruit salads.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,454,506,0.614266395568848
+"Can you help me find a fruit that's sometimes called a ""finger""?",,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,457,503,0.614191055297852
+Look around for a fruit that's known for its potassium content.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,455,470,0.306595087051392
+Search for a fruit that's a popular ingredient in milkshakes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,456,502,0.513607501983643
+Locate a fruit that's often paired with peanut butter.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,2.66035294532776
+Find me a fruit that's commonly used as a healthy snack.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,455,507,4.71078944206238
+Can you spot a fruit that's typically elongated and yellow?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.71584963798523
+I'm looking for a fruit that's great for quick energy.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,49.8683519363403
+Help me find a fruit that's easy to eat on the go.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,456,472,0.307273387908936
+Locate a fruit that's often found in lunch bags.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.513295650482178
+Find me a fruit that's known for its curved shape.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.613228559494019
+Can you find me a fruit that's often seen in fruit bowls?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,456,502,0.716544151306152
+I'm searching for a fruit that's commonly used in desserts.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,0.306584119796753
+Locate a fruit that's frequently used in baking.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,453,499,0.512098550796509
+Help me find a fruit that's a staple in many households.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.518047094345093
+Find me a fruit that's usually eaten raw.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,452,498,1.7340145111084
+Can you locate a fruit that's a popular smoothie ingredient?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,5.83646488189697
+Look around for a fruit that's often sliced onto cereal.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.307153940200806
+I'm craving a fruit that's known for its natural sweetness.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,49.8706138134003
+Find me a fruit that's commonly seen in lunchboxes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.510359287261963
+Can you help me find a fruit that's perfect for snacking?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,456,502,0.61339545249939
+Locate a fruit that's often included in fruit salads.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,454,506,0.716740846633911
+Help me find a fruit that's often found in kitchens.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.511590719223022
+Find me a fruit that's a favorite of many athletes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.511481285095215
+Can you locate a fruit that's easy to peel?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,52,453,505,0.920861721038818
+Look for a fruit that's commonly enjoyed as a healthy snack.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,455,501,0.818974494934082
+I'm in the mood for a fruit that's great for smoothies.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,457,473,0.51185417175293
+Find me a fruit that's known for its curved shape.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,5.83928394317627
+Can you locate a fruit that's often packed in lunch bags?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,455,501,0.714005708694458
+Help me find a fruit that's typically eaten raw.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,453,505,50.0735466480255
+Find me a fruit that's frequently used in baking.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,453,499,0.61459755897522
+Can you spot a fruit that's commonly used in desserts?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.716334581375122
+Locate a fruit that's a staple in many households.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.717555522918701
+Help me find a fruit that's often sliced onto cereal.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.408438682556152
+Find me a fruit that's perfect for adding to yogurt.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.408997297286987
+Can you locate a fruit that's commonly used in fruit bowls?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.716744422912598
+Look around for a fruit that's a favorite of monkeys.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,454,469,0.305900812149048
+I'm craving a fruit that's frequently used in smoothies.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,455,470,0.412493467330933
+Find me a fruit that's commonly enjoyed with peanut butter.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,52,454,506,5.83419322967529
+Can you help me find a fruit that's great for energy?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.613986015319824
+Locate a fruit that's known for its natural sweetness.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,49.971626996994
+Find me a fruit that's often included in lunchboxes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.51146411895752
+Can you locate a fruit that's easy to eat on the go?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,456,508,0.718076944351196
+Help me find a fruit that's often seen in kitchens.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.614341259002686
+Find me a fruit that's commonly used in baking.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,453,499,0.612601041793823
+Can you spot a fruit that's typically found in fruit salads?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.61433744430542
+Locate a fruit that's known for its potassium content.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,52,454,506,0.716277837753296
+Help me find a fruit that's perfect for snacking.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.30631422996521
+Find me a fruit that's a staple in many households.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.716971158981323
+Can you locate a fruit that's frequently used in smoothies?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,5.73348903656006
+Look around for a fruit that's commonly eaten raw.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true, ""current_location_condition"": ""kitchen""}']",FAILURE,59,453,512,0.819782972335815
+I'm craving a fruit that's often packed in lunch bags.,,['locate_object'],"['{""object"":""banana""}']",FAILURE,15,455,470,49.7680976390839
+Find me a fruit that's frequently used in desserts.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.611743211746216
+Can you help me find a fruit that's commonly sliced onto cereal?,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,456,472,0.306846618652344
+Locate a fruit that's easy to peel and eat.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.716749429702759
+Find me a fruit that's known for its curved shape.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.71700644493103
+Can you locate a fruit that's perfect for adding to yogurt?,,"['locate_object', 'locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana"", ""object_found_condition"": true}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,73,455,528,1.02442860603333
+Help me find a fruit that's enjoyed by both kids and adults.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,456,472,0.408299207687378
+Find me a fruit that's often enjoyed as a healthy snack.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,455,501,0.614351034164429
+Can you spot a fruit that's commonly used in fruit bowls?,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,455,470,0.307748556137085
+Locate a fruit that's a favorite of many athletes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,5.83682370185852
+Help me find a fruit that's frequently used in smoothies.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.612412452697754
+Find me a fruit that's known for its natural sweetness.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,49.8692989349365
+Can you locate a fruit that's typically eaten raw?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,453,505,0.818405866622925
+Look around for a fruit that's great for energy.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.717233419418335
+Help me find a fruit that's perfect for snacking.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.716417074203491
+Find me a fruit that's a staple in many households.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.818879842758179
+Can you locate a fruit that's frequently used in baking?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}']",FAILURE,52,454,506,0.616225957870483
+Help me find a fruit that's commonly enjoyed with peanut butter.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,0.304368495941162
+Find me a fruit that's often sliced onto cereal.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,453,469,0.306900262832642
+Can you spot a fruit that's known for its potassium content?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.716302633285522
+Locate a fruit that's frequently included in lunchboxes.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,5.73536062240601
+Help me find a fruit that's commonly used in desserts.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.305831432342529
+Find me a fruit that's easy to peel and eat.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,49.9720063209534
+Can you locate a fruit that's enjoyed by both kids and adults?,,"['locate_object', 'locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple"", ""object_found_condition"": true}', '{""object"": ""banana"", ""object_found_condition"": true}']",FAILURE,73,456,529,0.922581434249878
+Help me find a fruit that's perfect for adding to yogurt.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,455,471,0.408208847045898
+Find me a fruit that's often found in fruit salads.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,0.306148767471313
+Can you spot a fruit that's a favorite of many athletes?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,455,501,0.717769384384155
+Locate a fruit that's frequently used in smoothies.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.715715646743774
+Help me find a fruit that's commonly used in baking.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,454,500,0.613861322402954
+Find me a fruit that's typically eaten raw.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,452,498,0.81907844543457
+Can you locate a fruit that's great for energy?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.614074230194092
+Help me find a fruit that's perfect for snacking.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,454,470,5.52917528152466
+Find me a fruit that's a staple in many households.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""apple""}']",FAILURE,46,454,500,0.512429475784302
+Can you spot a fruit that's enjoyed by both kids and adults?,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,456,502,50.1757533550263
+Locate a fruit that's frequently used in desserts.,,"['locate_object', 'locate_object']","['{""object"": ""bowl""}', '{""object"": ""banana""}']",FAILURE,46,453,499,0.614296197891235
+Help me find a fruit that's commonly included in lunchboxes.,,['locate_object'],"['{""object"":""banana""}']",SUCCESS,15,455,470,0.306450128555298

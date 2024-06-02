@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Can you find my pup?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,310,331,0.409826278686523
+I'm looking for my furry friend.,,['go_to_area_behavior'],"['{""goal_area"":""home""}']",FAILURE,17,312,329,6.47456216812134
+Could you locate a canine for me?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.314019680023193
+Please search for a four-legged friend.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,49.5082538127899
+Can you spot a woofie?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417173147201538
+I need help finding my pet pooch.,,['go_to_area_behavior'],"['{""goal_area"":""home"",""object_found_condition"":true}']",FAILURE,23,313,336,0.522667407989502
+Could you locate a loyal companion?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.313079118728638
+I'm searching for a barker.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.312999486923218
+Can you find a canine friend for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,1.46225333213806
+Please locate a tail-wagger.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.208380222320557
+I'm looking for a furry buddy.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.31190013885498
+Could you find a four-pawed friend?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,314,329,0.314488410949707
+Can you spot a canine companion?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,6.47515916824341
+Please help me find a playful pup.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""dog"", ""object_found_condition"": true}', '{""goal_area"": ""garden""}']",FAILURE,54,312,366,0.730571031570435
+I need assistance locating a furry friend.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.313628911972046
+Can you find a wagging tail?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,49.7170143127441
+I'm searching for a friendly furball.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.417572975158691
+Could you locate a barking buddy?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.313273906707764
+Can you spot a playful pooch?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417382717132568
+Please help me find a furry companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417686939239502
+I need assistance finding a doggie.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.311917781829834
+Can you find a four-legged buddy?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,1.35878825187683
+I'm looking for a furry family member.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.312904834747314
+Could you locate a wagging tail for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,0.521805286407471
+Can you spot a canine pal?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,6.68474268913269
+Please help me find my pet.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""dog"", ""object_found_condition"": true}', '{""goal_area"": ""home""}']",FAILURE,53,311,364,0.938678026199341
+I'm searching for a furry companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313107013702393
+Can you find a loyal friend for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,48.6738998889923
+I need assistance locating my furry buddy.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.416727542877197
+Could you locate a canine friend?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.417172908782959
+Can you spot a wagging tail?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.31411075592041
+Please help me find my pet pooch.,,['go_to_area_behavior'],"['{""goal_area"":""home"",""object_found_condition"":true}']",FAILURE,23,313,336,0.312288045883179
+I'm looking for a barking buddy.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,313,328,0.312769412994385
+Can you find a tail-wagger for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,1.4619026184082
+I need assistance locating a playful pup.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.418485641479492
+Could you locate a four-legged friend?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.313049077987671
+Can you spot a furry companion?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,6.47584891319275
+Please help me find a loyal buddy.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.416219234466553
+I'm searching for a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,1.35763812065125
+Can you find a playful pooch for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,48.5685873031616
+I need assistance locating a furry friend.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417220830917358
+Could you locate a canine companion?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.313173532485962
+Can you spot a barking buddy?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.312989234924316
+Please help me find a furry family member.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""dog"", ""object_found_condition"": true}', '{""goal_area"": ""home""}']",FAILURE,53,313,366,0.626523494720459
+I'm looking for a four-legged friend.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.521593570709229
+Can you find a tail-wagger for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,1.35739994049072
+I need assistance locating a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.313468217849731
+Could you locate a playful pup?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.31285834312439
+Can you spot a furry buddy?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,6.37082815170288
+Please help me find a loyal companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.522834300994873
+I'm searching for a barking friend.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,313,328,1.25228810310364
+Can you find a wagging tail for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,48.4642744064331
+I need assistance locating a playful pooch.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.313454151153564
+Could you locate a furry buddy?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.312899827957153
+Can you spot a four-legged friend?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313220977783203
+Please help me find a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.312414646148682
+I'm looking for a loyal companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313198804855347
+Can you find a furry family member for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,1.35758662223816
+I need assistance locating a tail-wagger.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,313,328,0.312630176544189
+Could you locate a canine friend?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.208944082260132
+Can you spot a playful pup?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,7.41586661338806
+Please help me find a furry buddy.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.939749956130981
+I'm searching for a barking buddy.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,3.02864146232605
+Can you find a wagging tail for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,45.5395474433899
+I need assistance locating a furry friend.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417097330093384
+Could you locate a loyal companion?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313237905502319
+Can you spot a four-legged friend?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.31292462348938
+Please help me find a playful pooch.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.312676429748535
+I'm looking for a furry family member.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":false}']",FAILURE,21,313,334,0.418163299560547
+Can you find a tail-wagger for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,1.56647658348084
+I need assistance locating a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.417632818222046
+Could you locate a furry buddy?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.312906980514526
+Can you spot a loyal companion?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,7.7284836769104
+Please help me find a barking buddy.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,3.34204459190369
+I'm searching for a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.417501449584961
+Can you find a playful pup for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,45.5390963554382
+I need assistance locating a furry buddy.,,['locate_object'],"['{""object"":""cat"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417902708053589
+Could you locate a canine companion?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.312697887420654
+Can you spot a wagging tail?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313462018966675
+Please help me find a loyal friend.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313116073608398
+I'm looking for a barking buddy.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,313,328,0.312910556793213
+Can you find a furry family member for me?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,314,329,1.25341367721558
+I need assistance locating a four-legged friend.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.313094139099121
+Could you locate a tail-wagger?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,1.04431700706482
+Can you spot a playful pooch?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,6.37109231948853
+Please help me find a furry buddy.,,['locate_object'],"['{""object"":""cat"",""object_found_condition"":true}']",FAILURE,21,312,333,4.49033999443054
+I'm searching for a loyal companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.313633441925049
+Can you find a barking buddy for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,45.6435873508453
+I need assistance locating a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.417267322540283
+Could you locate a playful pup?,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,311,326,0.312766551971436
+Can you spot a furry friend?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,0.313472509384155
+Please help me find a loyal companion.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.3132643699646
+I'm looking for a wagging tail.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,0.730237007141113
+Can you find a four-legged friend for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,314,335,0.313450813293457
+I need assistance locating a furry buddy.,,['locate_object'],"['{""object"":""dog""}']",SUCCESS,15,312,327,0.312995910644531
+Could you locate a tail-wagger?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,312,333,0.417775630950928
+Can you spot a canine companion?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,311,332,7.51987218856812
+Please help me find a playful pooch.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,3.44652199745178
+I'm searching for a furry family member.,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,1.35755920410156
+Can you find a loyal buddy for me?,,['locate_object'],"['{""object"":""dog"",""object_found_condition"":true}']",FAILURE,21,313,334,45.7480294704437

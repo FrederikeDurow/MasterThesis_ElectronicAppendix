@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Head to the sleeping quarters.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Bed Room""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,1.63838458061218
+Move to the room where I sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,3.58291792869568
+Navigate to the resting area.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Living Room""}', '{""object"": ""bowl""}']",FAILURE,49,448,497,1.53839373588562
+Direct towards the place with the bed.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,40.9579980373383
+Go to the chamber of rest.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,449,467,1.43598914146423
+Proceed to the place with the mattress.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,2.45719218254089
+Journey to the area with the bunk.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,1.32782530784607
+Advance to the sleeping space.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,448,497,2.5594379901886
+Go to the place where I slumber.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,2.3550283908844
+Move to the area with the bedstead.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,0.307621002197266
+Navigate to the room with the pillows.,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,450,468,1.32994508743286
+Head towards the resting quarters.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,448,466,2.35492396354675
+Proceed to the area with the bedding.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,3.3787956237793
+Go to the place where I retire.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,2.3547694683075
+Move to the location with the duvet.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,40.6525781154633
+Journey to the sleeping zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,1.64054656028748
+Direct towards the area with the blanket.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,2.35385060310364
+Advance to the place where I nap.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,1.53482508659363
+Head to the room with the mattress.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,2.35480546951294
+Navigate to the sleeping sanctuary.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,448,464,2.3549017906189
+Proceed to the area with the comforter.,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,451,469,0.307412147521973
+Go to the place where I rest.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,1.33033299446106
+Move to the location with the sheets.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,2.35568451881409
+Journey to the slumber chamber.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,3.37869548797607
+Direct towards the area with the bedclothes.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,452,470,2.35458779335022
+Advance to the place where I snooze.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,41.0624146461487
+Head to the room with the bed.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,1.53606772422791
+Navigate to the sleeping quarters.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,448,497,2.56027960777283
+Proceed to the area with the pillow.,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,450,468,0.306405544281006
+Go to the place where I lie down.,,['go_to_area_behavior'],"['{""goal_area"":""bed room""}']",SUCCESS,18,451,469,3.48114061355591
+Move to the location with the mattress.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,2.56163811683655
+Journey to the sleeping space.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,0.509641885757446
+Direct towards the area with the quilt.,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,450,468,1.4332914352417
+Advance to the place where I dream.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,2.66282033920288
+Head to the room with the bunk.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,2.35416483879089
+Navigate to the sleeping zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,448,497,2.7653341293335
+Proceed to the area with the comforter.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,40.7547988891602
+Go to the place where I sleep.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""bed room""}']",FAILURE,23,450,473,1.33068680763245
+Move to the location with the blanket.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,2.35539865493774
+Journey to the restful chamber.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,0.311811447143555
+Direct towards the area with the bedstead.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,3.37394785881042
+Advance to the place where I slumber.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,2.55924606323242
+Head to the room with the duvet.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,0.306634187698364
+Navigate to the sleeping sanctuary.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,448,497,1.74243354797363
+Proceed to the area with the bedclothes.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,452,470,2.35333132743835
+Go to the place where I nap.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,2.35510730743408
+Move to the location with the sheets.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,2.45894002914429
+Journey to the slumber space.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,41.7785148620605
+Direct towards the area with the mattress.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,1.33164763450623
+Advance to the place where I rest.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,2.86526656150818
+Head to the room where I sleep at night.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Bed Room""}', '{""object"": ""bowl""}']",FAILURE,49,452,501,0.511942863464356
+Navigate to the area with the bed for me.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,452,501,2.56240177154541
+Proceed to the space where I usually sleep.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,2.4556393623352
+Go to the spot where I typically rest.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,0.305808782577515
+Move to the place where I usually sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,1.53738903999329
+Journey to the bed location.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,449,467,2.66087460517883
+Direct towards the area where I usually sleep.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,2.3538670539856
+Advance to the usual sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,2.66227269172668
+Head to the room where I rest.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,41.8816561698914
+Navigate to the typical sleeping place.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,1.53766894340515
+Proceed to where I normally sleep.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""bed room""}']",FAILURE,29,449,478,1.53427457809448
+Go to where I commonly rest.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.32970428466797
+Move to the area where I often sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,2.56093049049377
+Journey to the habitual sleeping spot.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,3.48132228851318
+Direct towards the familiar sleeping place.,,['locate_object'],"['{""object"":""bowl"",""current_location_condition"":""bed room""}']",FAILURE,23,449,472,0.306752681732178
+Advance to where I habitually sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,1.63889288902283
+Head to the room where I usually retire.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,1.28906178474426
+Navigate to the customary sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,2.60032773017883
+Proceed to the place where I regularly sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,2.58480453491211
+Go to the location where I typically nap.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,41.6520140171051
+Move to the spot where I habitually rest.,,['go_to_area_behavior'],"['{""goal_area"":""Living Room""}']",FAILURE,18,452,470,1.33021283149719
+Journey to the standard sleeping space.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,1.33173608779907
+Direct towards the usual sleeping spot.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.33054280281067
+Advance to the place where I usually slumber.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,452,501,2.76523017883301
+Head to the room where I habitually sleep.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",FAILURE,18,452,470,3.37890791893005
+Navigate to the normal sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,0.512722969055176
+Proceed to the place where I commonly sleep.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,1.32867527008057
+Go to where I usually snooze.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,1.33287477493286
+Move to the area where I habitually nap.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,452,468,2.35413599014282
+Journey to the typical sleeping zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,3.4814555644989
+Direct towards the regular sleeping spot.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,41.9840445518494
+Advance to the place where I usually lie down.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,452,501,0.614106178283691
+Head to the room where I normally sleep.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,1.3309497833252
+Navigate to the familiar sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,1.53723955154419
+Proceed to the place where I often rest.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,451,467,2.3539764881134
+Go to where I customarily sleep.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,450,468,3.37837910652161
+Move to the area where I regularly nap.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,1.33106064796448
+Journey to the standard sleeping zone.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,450,466,1.33364534378052
+Direct towards the usual resting spot.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.303350210189819
+Advance to the place where I frequently slumber.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,452,501,3.5837721824646
+Head to the room where I typically snooze.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,452,468,2.35481262207031
+Navigate to the customary sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,42.811231136322
+Proceed to the place where I habitually rest.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",FAILURE,18,452,470,0.298923015594482
+Go to where I commonly nap.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,1.53725171089172
+Move to the area where I typically sleep.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,451,500,1.8429811000824
+Journey to the habitual sleeping zone.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,450,499,1.53771495819092
+Direct towards the familiar resting spot.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,3.37523984909058
+Advance to the place where I usually dream.,,['go_to_area_behavior'],"['{""goal_area"":""Bed Room""}']",SUCCESS,18,451,469,1.33129096031189
+Head to the room where I usually take a nap.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,453,502,1.53625917434692
+Navigate to the usual sleeping area.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Bed Room""}']",FAILURE,49,449,498,0.512377023696899

@@ -1,0 +1,101 @@
+Input,Message,Function_calls,Function_arguments,Results,Completion Tokens,Prompt Tokens,Total Tokens,Execution Time
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,10.5457584857941
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.249671936035156
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,1.64581966400146
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.254744291305542
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,44.5818819999695
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.269095182418823
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.232613801956177
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.381549596786499
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.24223780632019
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.30071496963501
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,0.434999465942383
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,11.4354321956635
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.304516553878784
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,1.48779535293579
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.263338088989258
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,44.7249841690064
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.241515874862671
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.218451738357544
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.372152090072632
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.306333541870117
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,1.63852262496948
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.222739934921265
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,10.6559703350067
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.596222162246704
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.32323908805847
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.410435438156128
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,44.7488760948181
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.613115072250366
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,0.627842426300049
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.297870635986328
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.303597927093506
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.30556058883667
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.307060480117798
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,11.5169088840485
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.261446714401245
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.63691353797913
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,0.613019227981567
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,44.7499725818634
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.79889917373657
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,1.06812334060669
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",FAILURE,19,449,468,0.307873010635376
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.305582523345947
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.511016607284546
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.310845375061035
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,9.08951330184937
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.219858407974243
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.33595943450928
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.512715101242065
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,46.1830680370331
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,0.600237846374512
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.626209735870361
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.309553146362305
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,1.57819080352783
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.261227130889893
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.307479858398437
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,8.75460433959961
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,2.14295125007629
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.571934223175049
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.223883390426636
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,45.0368807315826
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.306738615036011
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.30659031867981
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.32999491691589
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.33159756660461
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.261081218719482
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.265099287033081
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,8.8956778049469
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.305351734161377
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.75686073303223
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.701552629470825
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,45.0583422183991
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.716007232666016
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.303988933563232
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.4355947971344
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,1.52955770492554
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.311163663864136
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.41981840133667
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,8.89890599250793
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.272980690002441
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.38274168968201
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.288123607635498
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,45.7738008499146
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.617762565612793
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.611492395401001
+Please go to the dining-room.,,"['locate_object', 'go_to_area_behavior']","['{""object"": ""bowl""}', '{""goal_area"": ""Dining Room""}']",FAILURE,50,449,499,0.617849826812744
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,1.32653069496155
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.613421440124512
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.512655973434448
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,8.70367074012756
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.333035945892334
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,1.46263337135315
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.323841571807861
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,46.3139734268188
+Please go to the dining-room.,,"['go_to_area_behavior', 'locate_object']","['{""goal_area"": ""Dining Room""}', '{""object"": ""bowl""}']",FAILURE,50,449,499,0.528839826583862
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl""}']",FAILURE,16,449,465,0.241561889648437
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.308183670043945
+Please go to the dining-room.,,['locate_object'],"['{""object"":""bowl"",""object_found_condition"":true,""current_location_condition"":""dining room""}']",FAILURE,30,449,479,1.37873387336731
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.258836030960083
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,0.279438734054565
+Please go to the dining-room.,,['go_to_area_behavior'],"['{""goal_area"":""Dining Room""}']",SUCCESS,19,449,468,9.59984660148621
