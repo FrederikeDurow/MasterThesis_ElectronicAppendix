@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from proto2ros/msg/Any.msg
+// generated code does not contain a copyright notice
+
+
+module proto2ros {
+  module msg {
+    @verbatim (language="comment", text=
+      "Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.")
+    struct Any {
+      @verbatim (language="comment", text=
+        "A dynamically typed ROS 2 message." "\n"
+        "ROS 2 message type name")
+      string type_name;
+
+      @verbatim (language="comment", text=
+        "Serialized ROS 2 message instance")
+      sequence<uint8> value;
+    };
+  };
+};

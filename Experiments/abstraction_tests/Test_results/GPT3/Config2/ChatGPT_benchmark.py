@@ -20,10 +20,7 @@ class ChatGPT():
         self.messages =[]
         self.read_config('/home/rasmus/Desktop/Master/MasterThesisGit/final_tests/abstraction_tests/chat_config.json')
         #self.read_config('/home/frederike/Documents/Speciale/MasterThesisGit/final_tests/abstraction_tests/chat_config.json')
-        self.client = AzureOpenAI(
-            api_key="",
-            api_version = "2023-12-01-preview",
-            azure_endpoint = "https://robot-tsko-openai.openai.azure.com/")
+    
         
         self.known_objects = ["banana", "apple", "cup", "laptop", "dog", "cat", "bottle", "teddy-bear", "person", "bowl", "refrigerator"]
         self.known_locations = ["home","garage","garden","office","bedroom","kitchen","workshop","dining-room","living-room"]

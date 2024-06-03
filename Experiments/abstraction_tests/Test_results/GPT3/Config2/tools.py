@@ -31,6 +31,17 @@ TOOLS = [{
                         "description": "This is an optional parameter, only set for functions that have a condition. If set, the function is only called if the current_location parameter is equal to the set value from the enum list.",
                         "enum": ["kitchen", "office", "bed room", "living room", "dining room", "workshop", "garden", "garage", "home"],
                     }
+                    
+                    # "condition_name": {
+                    #     "type": "array",
+                    #     "description": "The name of the condition(s) that decides whether the function should be executed or not. The condition_name and condition_value belong together, either both of them have to be set or none of them.",
+                    #     "enum": ["current_location", "object_found"],
+                    # },
+                    # "condition_value": {
+                    #     "type": "array",
+                    #     "description": "The value of the condition(s) that decides whether the function should be executed or not. The condition_name and condition_value belong together, either both of them have to be set or none of them.",
+                    #     "enum": [True, False ,"office","kitchen","home"],
+                    # }
                       
                 },
                 "required": ["goal_area"],
@@ -60,6 +71,16 @@ TOOLS = [{
                 "description": "This is an optional parameter, only set for functions that have a condition. If set, the function is only called if the current_location parameter is equal to the set value from the enum list.",
                 "enum": ["kitchen", "office", "bed room", "living room", "dining room", "workshop", "garden", "garage", "home"],
             }
+            # "condition_name": {
+            #     "type": "array",
+            #     "description": "The name of the condition(s) that decides whether the function should be executed or not. The condition_name and condition_value belong together, either both of them have to be set or none of them.",
+            #     "enum": ["current_location", "object_found"],
+            # },
+            # "condition_value": {
+            #     "type": "array",
+            #     "description": "The value of the condition(s) that decides whether the function should be executed or not. The condition_name and condition_value belong together, either both of them have to be set or none of them.",
+            #     "enum": [True, False ,"office","kitchen","home"],
+            # }
           },
           "required": ["object"]
         }

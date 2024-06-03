@@ -1,0 +1,30 @@
+###########################################
+
+The "Chat_text_input_v1.py" contains
+the code to interact with ChatGPT
+using simply the terminal.
+
+This version is made to quickly test
+different prompt configurations.
+
+###########################################
+
+The "ChatGPT_benchmark.py" is a modified
+version, which goal is to test the 
+rialiability. 
+
+Use the online ChatGPT version to generate
+100 ways "go to kitchen", then store it in a
+list and pass it to this file. 
+
+This will then store a text file with the 
+responses that can be analyse to check if 
+really did indeed call the right function. 
+
+###########################################
+
+Attention! Both utilizes the same config
+file and tools configuration.
+
+The discoveries then have to be added to the 
+one in the bt_ws

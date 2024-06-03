@@ -1,0 +1,30 @@
+######### Setting.py #########
+RESPEAKER_PARAMETERS = {
+    'CNIONOFF':0,            
+    'AGCONOFF':1,            
+    'AGCMAXGAIN':10,      
+    'AGCDESIREDLEVEL':0.005, 
+    'AGCTIME':0.2,           
+    
+    # Static Noise reduction
+    'GAMMA_NS':2.0,          
+    'MIN_NS':0.15,               
+    
+    # Dynamic Noise reduction
+    'GAMMA_NN':1.1000,       
+    'MIN_NN':0.3,            
+
+    # VAD Parameters
+    'GAMMA_NS_SR':1.0,       
+    'GAMMA_NN_SR':1.1,       
+    'MIN_NS_SR':0.15,        
+    'MIN_NN_SR':0.3,         
+    'GAMMAVAD_SR':1.5,       
+}
+
+
+######### VAD filter #########
+Yes -> new_confidence >= 0.60
+
+######### Morzilla RNNOISE #########
+No

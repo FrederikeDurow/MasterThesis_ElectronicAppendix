@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from proto2ros/msg/StructEntry.msg
+// generated code does not contain a copyright notice
+
+#include "proto2ros/msg/Value.idl"
+
+module proto2ros {
+  module msg {
+    @verbatim (language="comment", text=
+      "Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.")
+    struct StructEntry {
+      @verbatim (language="comment", text=
+        "Key-value entries in the proto2ros/Struct ROS 2 message. Equivalent to" "\n"
+        "the auxiliary Protobuf message used over-the-wire representation of the" "\n"
+        "google.protobuf.Struct message.")
+      string key;
+
+      proto2ros::msg::Value value;
+    };
+  };
+};

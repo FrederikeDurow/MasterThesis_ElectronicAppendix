@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from proto2ros/msg/Bytes.msg
+// generated code does not contain a copyright notice
+
+
+module proto2ros {
+  module msg {
+    @verbatim (language="comment", text=
+      "Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.")
+    struct Bytes {
+      @verbatim (language="comment", text=
+        "A binary blob. Equivalent to the google.protobuf.BytesValue message, also used to map repeated bytes fields to" "\n"
+        "the ROS 2 domain. See https://protobuf.dev/reference/protobuf/google.protobuf/#bytes-value for further reference.")
+      sequence<uint8> data;
+    };
+  };
+};

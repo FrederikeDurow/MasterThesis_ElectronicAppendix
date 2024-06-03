@@ -1,0 +1,40 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from proto2ros/msg/Value.msg
+// generated code does not contain a copyright notice
+
+#include "proto2ros/msg/Any.idl"
+
+module proto2ros {
+  module msg {
+    module Value_Constants {
+      @verbatim (language="comment", text=
+        "A dynamically typed (scalar or composite) value. Equivalent to the google.protobuf.Value message." "\n"        "See https://protobuf.dev/reference/protobuf/google.protobuf/#value for further reference.")
+      const int8 NO_VALUE_SET = 0;
+      const int8 NUMBER_VALUE_SET = 1;
+      const int8 STRING_VALUE_SET = 2;
+      const int8 BOOL_VALUE_SET = 3;
+      const int8 STRUCT_VALUE_SET = 4;
+      const int8 LIST_VALUE_SET = 5;
+    };
+    @verbatim (language="comment", text=
+      "Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.")
+    struct Value {
+      @default (value=0)
+      int8 kind;
+
+      double number_value;
+
+      string string_value;
+
+      boolean bool_value;
+
+      @verbatim (language="comment", text=
+        "is proto2ros/Struct")
+      proto2ros::msg::Any struct_value;
+
+      @verbatim (language="comment", text=
+        "is proto2ros/List")
+      proto2ros::msg::Any list_value;
+    };
+  };
+};

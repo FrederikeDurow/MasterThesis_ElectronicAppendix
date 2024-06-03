@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from proto2ros/msg/AnyProto.msg
+// generated code does not contain a copyright notice
+
+
+module proto2ros {
+  module msg {
+    @verbatim (language="comment", text=
+      "Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.")
+    struct AnyProto {
+      @verbatim (language="comment", text=
+        "A dynamically typed Protobuf message. Equivalent to the google.protobuf.Any message." "\n"
+        "See https://protobuf.dev/reference/protobuf/google.protobuf/#any for further reference." "\n"
+        "Protobuf message type URL.")
+      string type_url;
+
+      @verbatim (language="comment", text=
+        "Packed Protobuf message instance.")
+      sequence<uint8> value;
+    };
+  };
+};
